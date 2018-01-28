@@ -1,20 +1,22 @@
-<!DOCTYPE html>
-<html>
+{% include header.html %}
 
-  {% include head.html %}
+<section class="generic-entry">
+  <div class='containner'>
 
-  <body>
+    <aside>
+      {% include sidemenu.html %}
+    </aside>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <div id="sidr">
+      {% include sidemenu.html %}
     </div>
 
-    {% include footer.html %}
+    <article class="content">
+      {% if page.breadcrumb %}{% include breadcrumb.html %}{% endif %}
+      {{ content }}
+    </article>
 
-  </body>
+  </div>
+</section>
 
-</html>
+{% include footer.html %}
