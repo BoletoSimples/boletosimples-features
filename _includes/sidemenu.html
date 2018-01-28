@@ -1,12 +1,15 @@
 <ul class="nav">
-  {% for _page in site.pages %}
-    <li {% if page.url == _page.url %}class="active"{% endif %}>
-      <a class="main-link" href="{{_page.url}}" title="{{_page.title}}">{{_page.title}}</a>
-      {% for __page in _page.pages %}
-        <ul class="subnav">
-          <li><a href="{{__page.url}}">{{__page.title}}</a></li>
-        </ul>
-      {% endfor %}
-    </li>
+  {%- assign sorted_pages = site.pages | sort:"position", "last" -%}
+  {% for _page in sorted_pages %}
+    {% if _page.url != "/feed.xml" %}
+      <li {% if page.url == _page.url %}class="active"{% endif %}>
+        <a class="main-link" href="{{_page.url}}" title="{{_page.title}}">{{_page.title}}</a>
+        {% for __page in _page.pages %}
+          <ul class="subnav">
+            <li><a href="{{__page.url}}">{{__page.title}}</a></li>
+          </ul>
+        {% endfor %}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
