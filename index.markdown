@@ -1,5 +1,8 @@
 ---
 title: Introdução
+anchors:
+- geracao-boletos
+- cadastro-clientes
 layout: default
 ---
 
