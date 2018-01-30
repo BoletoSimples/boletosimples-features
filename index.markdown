@@ -1,6 +1,5 @@
 ---
 title: Introdução
-published: false
 position: 0
 layout: default
 ---
