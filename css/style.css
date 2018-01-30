@@ -107,7 +107,7 @@ h5 {
 /* Content */
 
 article.content {
-  margin: 40px 0 40px 240px;
+  margin: 40px 0 40px 280px;
 }
 
 article .breadcrumb { margin-top: 30px; }
@@ -161,7 +161,7 @@ article b {
 }
 
 article img {
-  max-width: 100%;
+  max-width: 90%;
   border: 1px solid #DDD;
 }
 
@@ -178,7 +178,7 @@ article a {
 /* Sidebar */
 
 aside {
-  width: 210px;
+  width: 250px;
   float: left;
   margin: 0 0 40px 0;
   border-right: solid 1px #ecf0f1;
@@ -214,16 +214,15 @@ aside a,
   color: #62a4cf;
 }
 
-.nav .subnav {
-  padding-left: 15px !important;
-  margin-bottom: 15px !important;
+.nav .anchors {
+  margin-bottom: 15px;
 }
 
-.nav .subnav .main-link {
+.nav ul.subnav .main-link {
   font-weight: normal;
 }
 
-.nav ul.anchors a {
+.nav ul.subnav a {
   padding: 10px 15px;
 }
 
