@@ -1,12 +1,12 @@
 ---
 title: Emissão de Boletos
 date: 2018-01-30 18:57:00 -02:00
+position: 1
 anchors:
   boleto-de-cobrança: Boleto de Cobrança
   boleto-de-proposta: Boleto de Proposta
   boleto-fatura: Boleto Fatura
   carnê: Carnê
-position: 1
 ---
 
 A principal razão de ser do Boleto Simples é a emissão e gestão de boletos bancários.
