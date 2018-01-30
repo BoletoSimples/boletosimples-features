@@ -5,3 +5,5 @@ position: 3
 ---
 
 ![Imprimir.png](/uploads/Imprimir.png)
+
+![Imprimir_modal.png](/uploads/Imprimir_modal.png)
