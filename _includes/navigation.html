@@ -1,5 +1,4 @@
 {% capture html %}
-<ul class="nav">
     {%- assign entries = site.html_pages | sort: "position" -%}
     {% for entry in entries %}
       {%- capture slug    -%}{{ entry.url | split: "/"   | last                       }}{%- endcapture -%}
@@ -26,9 +25,10 @@
               {% endfor %}
             </ul>
           {% endif %}
-          {% include navigation.html context=entry.url %}
+          <ul class="subnav">
+            {% include navigation.html context=entry.url %}
+          </ul>
         </li>
       {% endif %}
     {% endfor %}
-</ul>
 {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}

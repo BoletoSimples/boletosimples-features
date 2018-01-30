@@ -214,9 +214,13 @@ aside a,
   color: #62a4cf;
 }
 
-.nav .nav {
+.nav .subnav {
   padding-left: 15px !important;
   margin-bottom: 15px !important;
+}
+
+.nav .subnav .main-link {
+  font-weight: normal;
 }
 
 .nav ul.anchors a {
