@@ -1,6 +1,6 @@
 ---
 title: Emissão de Boleto Bancário
-position: 1
+position: 0
 anchors:
   boleto-de-cobrança: Boleto de Cobrança
   boleto-de-proposta: Boleto de Proposta
