@@ -6,4 +6,4 @@ position: 13
 
 Ao gerar um boleto, o sistema já gera automaticamente o envelope para impressão no formato de imagem e PDF. Veja abaixo o exemplo de um envelope gerado pelo sistema.
 
-![Envelope.png](/uploads/Envelope.png)
+![Envelope-4c646d.png](/uploads/Envelope-4c646d.png)
