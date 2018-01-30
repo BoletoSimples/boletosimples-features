@@ -10,7 +10,7 @@
           {% if entry.anchors %}
             <ul class="anchors">
               {% for anchor in entry.anchors %}
-                <li><a href="#{{anchor[0]}}">{{anchor[1]}}</a></li>
+                <li><a href="{{entry.url}}#{{anchor[0]}}">{{anchor[1]}}</a></li>
               {% endfor %}
             </ul>
           {% endif %}
