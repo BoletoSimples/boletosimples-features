@@ -1,8 +1,8 @@
 ---
 title: Introdução
 anchors:
-- geracao-boletos
-- cadastro-clientes
+  geração-de-boletos: Geração de Boleto
+  cadastro-de-clientes: Cadastro de Clientes
 layout: default
 ---
 
