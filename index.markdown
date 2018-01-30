@@ -5,7 +5,7 @@ anchors:
   boleto-de-proposta: Boleto de Proposta
   boleto-fatura: Boleto Fatura
   carnê: Carnê
-  âncora-de-teste: Teste de Âncora
+  Âncora-de-teste: Teste de Âncora
 layout: default
 ---
 
