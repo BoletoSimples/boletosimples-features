@@ -210,11 +210,11 @@ aside a,
   font-weight: bold;
 }
 
-.active .main-link {
+.active.main-link {
   color: #62a4cf;
 }
 
-.subnav {
+.nav .nav {
   padding-left: 15px !important;
   margin-bottom: 15px !important;
 }

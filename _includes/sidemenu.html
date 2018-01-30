@@ -1,4 +1,6 @@
-<ul class="nav">
+{% include navigation.html context="/" %}
+
+<!-- <ul class="nav">
   {%- assign sorted_pages = site.pages | sort:"position" -%}
   {% for _page in sorted_pages %}
     {% if _page.url != "/feed.xml" and _page.parent == nil %}
@@ -14,4 +16,4 @@
       </li>
     {% endif %}
   {% endfor %}
-</ul>
+</ul> -->
