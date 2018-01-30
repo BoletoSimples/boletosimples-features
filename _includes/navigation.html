@@ -5,7 +5,7 @@
       {%- capture current -%}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{%- endcapture -%}
       {% if entry.url == "/" and include.context == "/" %}
         <li class="{% if page.url == "/" %}active{% endif %}">
-          <a class="main-link" href="{{ site.baseurl }}/">Introdução</a>
+          <a class="main-link" href="{{ site.baseurl }}/">{{ entry.title }}</a>
           {% if entry.anchors %}
             <ul class="subnav">
               {% for anchor in entry.anchors %}
