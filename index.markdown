@@ -5,7 +5,6 @@ anchors:
   boleto-de-proposta: Boleto de Proposta
   boleto-fatura: Boleto Fatura
   carnê: Carnê
-  Âncora-de-teste: Teste de Âncora
 layout: default
 ---
 
@@ -40,7 +39,3 @@ O boleto fatura possui as informações do demonstrativo mais detalhadas no cabe
 O carnê é utilizado nas cobranças parceladas. Quando um valor de uma venda é parcelado em 2 ou mais vezes, você pode usar o carnê que nada mais é que um conjunto de boletos no mesmo valor com vencimentos seguidos em um intervalo mensal, bimestral, trimestral, semestral ou anual.
 
 ![02-164700c57d54f97bf780d7caf956a5fab8a9f4bc47344d08959434a4917e5197.jpg](/uploads/02-164700c57d54f97bf780d7caf956a5fab8a9f4bc47344d08959434a4917e5197.jpg)
-
-## Âncora de teste
-
-Apenas um teste
