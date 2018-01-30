@@ -219,6 +219,10 @@ aside a,
   margin-bottom: 15px !important;
 }
 
+.nav ul.anchors a {
+  padding: 10px 15px;
+}
+
 
 /* Panel */
 
