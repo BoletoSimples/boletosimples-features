@@ -7,7 +7,7 @@
         <li class="{% if page.url == "/" %}active{% endif %}">
           <a class="main-link" href="{{ site.baseurl }}/">Introdução</a>
           {% if entry.anchors %}
-            <ul class="anchors">
+            <ul class="subnav">
               {% for anchor in entry.anchors %}
                 <li><a href="{{entry.url}}#{{anchor[0]}}">{{anchor[1]}}</a></li>
               {% endfor %}
@@ -19,9 +19,9 @@
         <li class="{% if page.url == entry.url %}active{% endif %}">
           <a class="main-link {% if page.url == entry.url %}active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
           {% if entry.anchors %}
-            <ul class="anchors">
+            <ul class="subnav">
               {% for anchor in entry.anchors %}
-                <li><a href="#{{anchor[0]}}">{{anchor[1]}}</a></li>
+                <li><a href="{{entry.url}}#{{anchor[0]}}">{{anchor[1]}}</a></li>
               {% endfor %}
             </ul>
           {% endif %}

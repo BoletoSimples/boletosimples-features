@@ -214,16 +214,15 @@ aside a,
   color: #62a4cf;
 }
 
-.nav .subnav {
-  padding-left: 15px !important;
-  margin-bottom: 15px !important;
+.nav .anchors {
+  margin-bottom: 15px;
 }
 
-.nav .subnav .main-link {
+.nav ul.subnav .main-link {
   font-weight: normal;
 }
 
-.nav ul.anchors a {
+.nav ul.subnav a {
   padding: 10px 15px;
 }
 

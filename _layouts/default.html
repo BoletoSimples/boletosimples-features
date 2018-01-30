@@ -4,11 +4,15 @@
   <div class='containner'>
 
     <aside>
-      {% include sidemenu.html %}
+      <ul class="nav">
+        {% include navigation.html context="/" %}
+      </ul>
     </aside>
 
     <div id="sidr">
-      {% include sidemenu.html %}
+      <ul class="nav">
+        {% include navigation.html context="/" %}
+      </ul>
     </div>
 
     <article class="content">
