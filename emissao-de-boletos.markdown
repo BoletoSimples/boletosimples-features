@@ -9,7 +9,7 @@ anchors:
   carnê: Carnê
 ---
 
-A principal razão de ser do Boleto Simples é a emissão e gestão de boletos bancários.
+A principal razão de ser do Boleto Simples é a emissão e gestão de boletos bancários
 
 Você pode realizar cobranças usando o boleto da sua própria conta bancária.
 
