@@ -33,8 +33,6 @@ Envie instantaneamente os boletos por email para seus clientes e acompanhe os pa
 
 O boleto de cobrança é o tipo de boleto mais comum: um título de cobrança que contém informações como o valor, a data de vencimento, quem deve pagar e para quem deve ser pago.
 
-![01-4af0204139d442b47e40ff6d42547c33fdb9559a9317467f3d2b2c48dd8c682c.jpg](/uploads/01-4af0204139d442b47e40ff6d42547c33fdb9559a9317467f3d2b2c48dd8c682c.jpg)
-
 Com o Boleto Simples, você se livra dos sistemas complexos dos bancos e consegue gerar um boleto de cobrança em menos de dois minutos:
 
 * **Defina o valor e a data de vencimento**
@@ -48,8 +46,6 @@ Para deixar tudo ainda mais simples, é possível criar e usar templates com as 
 ## Boleto Fatura
 
 O Boleto Simples permite a emissão de boletos no formato de fatura, usados para cobranças que exigem maior detalhamento sobre o produto adquirido ou o serviço prestado.
-
-![03-c1af5ceb5cc13511d5a19051d640ec77ebe56a4adbeaa3d40e8ac822d05520e3.jpg](/uploads/03-c1af5ceb5cc13511d5a19051d640ec77ebe56a4adbeaa3d40e8ac822d05520e3.jpg)
 
 Personalize as informações que serão incluídas no demonstrativo usando **tags HTML e Markdown**. O Markdown é uma das linguagens de marcação leves mais populares atualmente, permitindo editar o texto inserindo negrito, itálico, links e títulos.
 
