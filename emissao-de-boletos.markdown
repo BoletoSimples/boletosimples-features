@@ -9,19 +9,22 @@ anchors:
   carnê: Carnê
 ---
 
-A principal razão de ser do Boleto Simples é a emissão e gestão de boletos bancários
+No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente. É possível emitir:
 
-Você pode realizar cobranças usando o boleto da sua própria conta bancária.
+* Boletos de cobrança
+Boletos de fatura
+Boletos de proposta
+Carnês
+Assinaturas
 
-Isso quer dizer que quando o boleto é pago, **o dinheiro entra diretamente para sua conta bancária**.
+[emissao de boletos.PNG](/uploads/emissao%20de%20boletos.PNG)
 
-O Boleto Simples não é um intermediário e não fica com o seu dinheiro em nenhum momento.
-
-Você tem a segurança dos bancos para guardar o seu dinheiro.
+Você pode personalizar logomarcas, configurar as condições de pagamento dos boletos e criar templates para evitar trabalho manual. 
+Envie instantaneamente os boletos por email para seus clientes e acompanhe os pagamentos em tempo real - tudo dentro da mesma plataforma.
 
 ## Boleto de Cobrança
 
-Esse é o layout padrão que a maioria das empresas usam, com o Recibo do Pagador em cima e a Ficha de Compensação embaixo.
+O boleto de cobrança é o tipo de boleto mais comum: um título de cobrança que contém informações como o valor, a data de vencimento, quem deve pagar e para quem deve ser pago.
 
 ![01-4af0204139d442b47e40ff6d42547c33fdb9559a9317467f3d2b2c48dd8c682c.jpg](/uploads/01-4af0204139d442b47e40ff6d42547c33fdb9559a9317467f3d2b2c48dd8c682c.jpg)
 
