@@ -20,7 +20,8 @@ No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteir
 * Carnês
 * Assinaturas
 
-[emissao de boletos.PNG](/uploads/emissao%20de%20boletos.PNG)
+
+[emissao de boletos-598fc1.PNG](/uploads/emissao%20de%20boletos-598fc1.PNG)
 
 Você pode personalizar logomarcas, configurar as condições de pagamento dos boletos e criar templates para evitar trabalho manual. 
 Envie instantaneamente os boletos por email para seus clientes e acompanhe os pagamentos em tempo real - tudo dentro da mesma plataforma.
