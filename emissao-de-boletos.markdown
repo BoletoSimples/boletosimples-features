@@ -10,13 +10,15 @@ anchors:
   assinatura: Assinatura
 ---
 
-No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente. É possível emitir:
+No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente. 
+
+É possível emitir:
 
 * Boletos de cobrança
-Boletos de fatura
-Boletos de proposta
-Carnês
-Assinaturas
+* Boletos de fatura
+* Boletos de proposta
+* Carnês
+* Assinaturas
 
 [emissao de boletos.PNG](/uploads/emissao%20de%20boletos.PNG)
 
