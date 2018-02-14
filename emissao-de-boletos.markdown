@@ -24,7 +24,7 @@ No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteir
 
 * Assinaturas
 
-
+<p></p>
 
 ![emissao de boletos.JPG](/uploads/emissao%20de%20boletos.JPG)
 
