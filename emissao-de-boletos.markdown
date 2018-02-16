@@ -9,6 +9,8 @@ anchors:
   carnê: Carnê
   assinatura: Assinatura
   logomarca: Logomarca do Boleto
+  alteracao-vencimento: Alteração do vencimento e valor
+  cancelamento: Cancelamento do Boleto
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
@@ -87,3 +89,23 @@ Inclua no layout dos seus boletos a logomarca do banco da sua conta corrente:
 ![logomarca.JPG](/uploads/logomarca.JPG)
 
 Apesar de não ser obrigatório para gerar um boleto, já que essa identificação pode ser feita pelo número do banco, a logomarca é um recurso útil que facilita a visualização e o pagamento por parte do seu cliente.
+
+## Alteração do vencimento e valor
+
+Depois de gerado, você pode alterar um boleto sem dificuldades.
+
+Quer evitar gerar uma segunda via? É só modificar a data de vencimento dele:
+
+![alterar vencimento.JPG](/uploads/alterar%20vencimento.JPG)
+
+Assim, você evita pagar novas taxas ao banco e descomplica o pagamento para o seu cliente.
+
+## Cancelamento do boleto
+
+É possível cancelar um boleto gerado no boleto simples a qualquer momento e em um só clique.
+
+Se aquele pagamento por algum motivo não deve mais acontecer, é só localizar o boleto na sua plataforma e clicar em Cancelar.
+
+[cancelamento.JPG](/uploads/cancelamento.JPG)
+
+Dessa forma você evita pagamentos indevidos e a dor de cabeça de ter que fazer um reembolso.
