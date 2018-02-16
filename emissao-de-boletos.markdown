@@ -13,6 +13,7 @@ anchors:
   cancelamento: Cancelamento do Boleto
   copiar-boleto: Copiar boleto
   controle-pagamento: Controle de Pagamento
+  observacoes-boleto: Observações por boleto
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
@@ -130,10 +131,20 @@ No Boleto Simples você consegue controlar de forma simples e centralizada o pag
 
 Na página que reúne todos os boletos gerados na sua conta, é possível ver as principais informações de cada boleto:
 
-* **Status do boleto: **pago, vencido ou em aberto são status representados pelas cores verde, azul e vermelho respectivamente.
+* **Status do boleto:** pago, vencido ou em aberto são status representados pelas cores verde, azul e vermelho respectivamente.
 
 * **Data de vencimento:** saiba quando o vencimento se aproxima e tenha margem para atuar
 
-* **Data de pagamento: **tenha um registro confiável e automático de todos os pagamentos
+* **Data de pagamento:** tenha um registro confiável e automático de todos os pagamentos
 
 Além disso, também é fácil configurar notificações para você receber um email toda vez que um boleto tem o pagamento confirmado.
+
+## Observações por boleto
+
+Na visualização individual dos boletos, o campo Observações permite adicionar informações extras sobre aquele documento.
+
+![observacoes.JPG](/uploads/observacoes.JPG)
+
+Precisa se lembrar de algum detalhe importante sobre aquela venda? É só anotar ali!
+
+As observações ficam visíveis apenas para você, para usar da forma mais útil para o seu negócio.
