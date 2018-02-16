@@ -11,6 +11,7 @@ anchors:
   logomarca: Logomarca do Boleto
   alteracao-vencimento: Alteração do vencimento e valor
   cancelamento: Cancelamento do Boleto
+  copiar-boleto: Copiar boleto
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
@@ -109,3 +110,13 @@ Se aquele pagamento por algum motivo não deve mais acontecer, é só localizar 
 ![cancelamento-171dcd.JPG](/uploads/cancelamento-171dcd.JPG)
 
 Dessa forma você evita pagamentos indevidos e a dor de cabeça de ter que fazer um reembolso.
+
+## Copiar boleto
+
+Quer reutilizar as informações de boleto já gerado em um novo boleto? Não precisa fazer tudo de novo!
+
+No Boleto Simples você economiza tempo e evite trabalho manual: é só abrir o boleto que você já emitiu e fazer uma cópia dele.
+
+![copiar boleto.JPG](/uploads/copiar%20boleto.JPG)
+
+Você poderá alterar apenas as informações desejadas e reaproveitar tudo que já estava configurado no boleto que copiou.
