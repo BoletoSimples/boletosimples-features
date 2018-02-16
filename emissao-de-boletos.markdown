@@ -8,6 +8,7 @@ anchors:
   boleto-fatura: Boleto Fatura
   carnê: Carnê
   assinatura: Assinatura
+  logomarca: Logomarca do Boleto
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
@@ -78,3 +79,11 @@ A melhor parte é que depois disso, é **tudo automático**!
 O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar.
 
 ![assinatura jpg.JPG](/uploads/assinatura%20jpg.JPG)
+
+## Logomarca do Boleto
+
+Inclua no layout dos seus boletos a logomarca do banco da sua conta corrente:
+
+![logomarca.JPG](/uploads/logomarca.JPG)
+
+Apesar de não ser obrigatório para gerar um boleto, já que essa identificação pode ser feita pelo número do banco, a logomarca é um recurso útil que facilita a visualização e o pagamento por parte do seu cliente.
