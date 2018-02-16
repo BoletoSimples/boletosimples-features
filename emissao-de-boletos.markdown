@@ -14,6 +14,7 @@ anchors:
   copiar-boleto: Copiar boleto
   controle-pagamento: Controle de Pagamento
   observacoes-boleto: Observações por boleto
+  malha-seguranca: Malha de Segurança Exclusiva
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
@@ -148,3 +149,13 @@ Na visualização individual dos boletos, o campo Observações permite adiciona
 Precisa se lembrar de algum detalhe importante sobre aquela venda? É só anotar ali!
 
 As observações ficam visíveis apenas para você, para usar da forma mais útil para o seu negócio.
+
+## Malha de Segurança Exclusiva
+
+O Boleto Simples desenvolveu uma malha de segurança exclusiva que impede a adulteração dos boletos gerados pela plataforma.
+
+![malha.JPG](/uploads/malha.JPG)
+
+A malha de segurança consiste em uma marca d’água de padrões em azul que é única para cada boleto, impedindo que qualquer informação presente nele seja modificada.
+
+Isso garante maior segurança para os seus clientes e para o seu negócio.
