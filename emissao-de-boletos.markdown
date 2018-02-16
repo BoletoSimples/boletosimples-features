@@ -12,6 +12,7 @@ anchors:
   alteracao-vencimento: Alteração do vencimento e valor
   cancelamento: Cancelamento do Boleto
   copiar-boleto: Copiar boleto
+  controle-pagamento: Controle de Pagamento
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
@@ -120,3 +121,19 @@ No Boleto Simples você economiza tempo e evite trabalho manual: é só abrir o 
 ![copiar boleto.JPG](/uploads/copiar%20boleto.JPG)
 
 Você poderá alterar apenas as informações desejadas e reaproveitar tudo que já estava configurado no boleto que copiou.
+
+## Controle de Pagamento
+
+No Boleto Simples você consegue controlar de forma simples e centralizada o pagamento dos boletos emitidos.
+
+![controle de pagamento.JPG](/uploads/controle%20de%20pagamento.JPG)
+
+Na página que reúne todos os boletos gerados na sua conta, é possível ver as principais informações de cada boleto:
+
+* **Status do boleto: **pago, vencido ou em aberto são status representados pelas cores verde, azul e vermelho respectivamente.
+
+* **Data de vencimento:** saiba quando o vencimento se aproxima e tenha margem para atuar
+
+* **Data de pagamento: **tenha um registro confiável e automático de todos os pagamentos
+
+Além disso, também é fácil configurar notificações para você receber um email toda vez que um boleto tem o pagamento confirmado.
