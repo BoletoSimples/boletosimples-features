@@ -8,6 +8,13 @@ anchors:
   boleto-fatura: Boleto Fatura
   carnê: Carnê
   assinatura: Assinatura
+  logomarca: Logomarca do Boleto
+  alteracao-vencimento: Alteração do vencimento e valor
+  cancelamento: Cancelamento do Boleto
+  copiar-boleto: Copiar boleto
+  controle-pagamento: Controle de Pagamento
+  observacoes-boleto: Observações por boleto
+  malha-seguranca: Malha de Segurança Exclusiva
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
@@ -78,3 +85,77 @@ A melhor parte é que depois disso, é **tudo automático**!
 O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar.
 
 ![assinatura jpg.JPG](/uploads/assinatura%20jpg.JPG)
+
+## Logomarca do Boleto
+
+Inclua no layout dos seus boletos a logomarca do banco da sua conta corrente:
+
+![logomarca.JPG](/uploads/logomarca.JPG)
+
+Apesar de não ser obrigatório para gerar um boleto, já que essa identificação pode ser feita pelo número do banco, a logomarca é um recurso útil que facilita a visualização e o pagamento por parte do seu cliente.
+
+## Alteração do vencimento e valor
+
+Depois de gerado, você pode alterar um boleto sem dificuldades.
+
+Quer evitar gerar uma segunda via? É só modificar a data de vencimento dele:
+
+![alterar vencimento.JPG](/uploads/alterar%20vencimento.JPG)
+
+Assim, você evita pagar novas taxas ao banco e descomplica o pagamento para o seu cliente.
+
+## Cancelamento do boleto
+
+É possível cancelar um boleto gerado no boleto simples a qualquer momento e em um só clique.
+
+Se aquele pagamento por algum motivo não deve mais acontecer, é só localizar o boleto na sua plataforma e clicar em Cancelar.
+
+![cancelamento-171dcd.JPG](/uploads/cancelamento-171dcd.JPG)
+
+Dessa forma você evita pagamentos indevidos e a dor de cabeça de ter que fazer um reembolso.
+
+## Copiar boleto
+
+Quer reutilizar as informações de boleto já gerado em um novo boleto? Não precisa fazer tudo de novo!
+
+No Boleto Simples você economiza tempo e evite trabalho manual: é só abrir o boleto que você já emitiu e fazer uma cópia dele.
+
+![copiar boleto.JPG](/uploads/copiar%20boleto.JPG)
+
+Você poderá alterar apenas as informações desejadas e reaproveitar tudo que já estava configurado no boleto que copiou.
+
+## Controle de Pagamento
+
+No Boleto Simples você consegue controlar de forma simples e centralizada o pagamento dos boletos emitidos.
+
+![controle de pagamento.JPG](/uploads/controle%20de%20pagamento.JPG)
+
+Na página que reúne todos os boletos gerados na sua conta, é possível ver as principais informações de cada boleto:
+
+* **Status do boleto:** pago, vencido ou em aberto são status representados pelas cores verde, azul e vermelho respectivamente.
+
+* **Data de vencimento:** saiba quando o vencimento se aproxima e tenha margem para atuar
+
+* **Data de pagamento:** tenha um registro confiável e automático de todos os pagamentos
+
+Além disso, também é fácil configurar notificações para você receber um email toda vez que um boleto tem o pagamento confirmado.
+
+## Observações por boleto
+
+Na visualização individual dos boletos, o campo Observações permite adicionar informações extras sobre aquele documento.
+
+![observacoes.JPG](/uploads/observacoes.JPG)
+
+Precisa se lembrar de algum detalhe importante sobre aquela venda? É só anotar ali!
+
+As observações ficam visíveis apenas para você, para usar da forma mais útil para o seu negócio.
+
+## Malha de Segurança Exclusiva
+
+O Boleto Simples desenvolveu uma malha de segurança exclusiva que impede a adulteração dos boletos gerados pela plataforma.
+
+![malha.JPG](/uploads/malha.JPG)
+
+A malha de segurança consiste em uma marca d’água de padrões em azul que é única para cada boleto, impedindo que qualquer informação presente nele seja modificada.
+
+Isso garante maior segurança para os seus clientes e para o seu negócio.
