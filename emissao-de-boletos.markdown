@@ -106,6 +106,6 @@ Assim, você evita pagar novas taxas ao banco e descomplica o pagamento para o s
 
 Se aquele pagamento por algum motivo não deve mais acontecer, é só localizar o boleto na sua plataforma e clicar em Cancelar.
 
-[cancelamento.JPG](/uploads/cancelamento.JPG)
+![cancelamento-171dcd.JPG](/uploads/cancelamento-171dcd.JPG)
 
 Dessa forma você evita pagamentos indevidos e a dor de cabeça de ter que fazer um reembolso.
