@@ -233,6 +233,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-15
 
 DEPENDENCIES
   foreman
