@@ -63,6 +63,14 @@ Nenhum acesso à sua conta bancária será realizado por nós. O Boleto Simples 
 
 ## Histórico de Ocorrências
 
+O Boleto Simples mostra na Tela de Pendências todas as ocorrências que deverão entrar na sua próxima remessa ao banco.
+Aqui, é possível visualizar e excluir eventos que ainda não foram enviados ao banco.
+
+![historico de ocorrencias.JPG](/uploads/historico%20de%20ocorrencias.JPG)
+
+Você pode por exemplo cancelar o registro de um boleto gerado errado antes de ele ser enviado na remessa.
+Dessa forma, o banco nem fica sabendo do erro cometido e você evita prejuízos.
+
 ## Comandos Suportados
 
 ## Novos Webservices
