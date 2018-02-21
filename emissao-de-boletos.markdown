@@ -40,6 +40,8 @@ Envie instantaneamente os boletos por email para seus clientes e acompanhe os pa
 
 O boleto de cobrança é o tipo de boleto mais comum: um título de cobrança que contém informações como o valor, a data de vencimento, quem deve pagar e para quem deve ser pago.
 
+![boleto de cobrança.JPG](/uploads/boleto%20de%20cobran%C3%A7a.JPG)
+
 Com o Boleto Simples, você se livra dos sistemas complexos dos bancos e consegue gerar um boleto de cobrança em menos de dois minutos:
 
 * **Defina o valor e a data de vencimento**
@@ -53,6 +55,8 @@ Para deixar tudo ainda mais simples, é possível criar e usar templates com as 
 ## Boleto Fatura
 
 O Boleto Simples permite a emissão de boletos no formato de fatura, usados para cobranças que exigem maior detalhamento sobre o produto adquirido ou o serviço prestado.
+
+![boleto fatura.JPG](/uploads/boleto%20fatura.JPG)
 
 Personalize as informações que serão incluídas no demonstrativo usando **tags HTML e Markdown**. O Markdown é uma das linguagens de marcação leves mais populares atualmente, permitindo editar o texto inserindo negrito, itálico, links e títulos.
 
@@ -72,19 +76,15 @@ As principais vantagens de gerar carnês no Boleto Simples são:
 
 * **Tudo sob controle:** você acompanha pela própria plataforma a confirmação e a data dos pagamentos realizados.
 
-Além disso, oferecendo a possibilidade e pagamento em carnê você aumenta as chances de vendas de valores elevados para clientes que não possuem cartão de crédito.
+Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de vendas de valores elevados para clientes que não possuem cartão de crédito. Saiba mais [aqui](http://boletosimples-features.siteleaf.net/cobranca-parcelada-carnes/).
 
 ## Assinatura
 
-A Assinatura é uma forma de cobrança para compromissos de **pagamentos recorrentes**. Ela pode ser utilizada por empresas que buscam a fidelização do cliente ao produto, como por exemplo serviços e produtos de recorrência.
+No Boleto Simples também é possível gerar uma assinatura em poucos minutos. É só escolher o valor a ser pago e as datas de vencimento das faturas.
 
-No Boleto Simples, você gera uma assinatura em poucos minutos, configurando o cliente a quem pertence, o valor a ser pago e as datas de vencimento.
+![assinaturas.jpg](/uploads/assinaturas.jpg)
 
-A melhor parte é que depois disso, é **tudo automático**!
-
-O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar.
-
-![assinatura jpg.JPG](/uploads/assinatura%20jpg.JPG)
+O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar. Saiba mais sobre assinaturas [aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
 
 ## Logomarca do Boleto
 
