@@ -80,15 +80,11 @@ Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de ven
 
 ## Assinatura
 
-A Assinatura é uma forma de cobrança para compromissos de **pagamentos recorrentes**. Ela pode ser utilizada por empresas que buscam a fidelização do cliente ao produto, como por exemplo serviços e produtos de recorrência.
+No Boleto Simples também é possível gerar uma assinatura em poucos minutos. É só escolher o valor a ser pago e as datas de vencimento das faturas.
 
-No Boleto Simples, você gera uma assinatura em poucos minutos, configurando o cliente a quem pertence, o valor a ser pago e as datas de vencimento.
+![assinaturas.jpg](/uploads/assinaturas.jpg)
 
-A melhor parte é que depois disso, é **tudo automático**!
-
-O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar.
-
-![assinatura jpg.JPG](/uploads/assinatura%20jpg.JPG)
+O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar. Saiba mais sobre assinaturas [aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
 
 ## Logomarca do Boleto
 
