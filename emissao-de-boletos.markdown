@@ -76,7 +76,7 @@ As principais vantagens de gerar carnês no Boleto Simples são:
 
 * **Tudo sob controle:** você acompanha pela própria plataforma a confirmação e a data dos pagamentos realizados.
 
-Além disso, oferecendo a possibilidade e pagamento em carnê você aumenta as chances de vendas de valores elevados para clientes que não possuem cartão de crédito.
+Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de vendas de valores elevados para clientes que não possuem cartão de crédito. Saiba mais [aqui](http://boletosimples-features.siteleaf.net/cobranca-parcelada-carnes/).
 
 ## Assinatura
 
