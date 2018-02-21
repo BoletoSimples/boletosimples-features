@@ -6,7 +6,7 @@ position: 5
 
 Na visualização individual dos boletos, o campo Observações permite adicionar informações extras sobre aquele documento.
 
-![observacoes.JPG](/api/v2/sites/5a6e42d4b89c4264923706aa/source/_uploads/observacoes.JPG?download)
+![observacoes-dc5616.JPG](/uploads/observacoes-dc5616.JPG)
 
 Precisa se lembrar de algum detalhe importante sobre aquela venda? É só anotar ali!
 
