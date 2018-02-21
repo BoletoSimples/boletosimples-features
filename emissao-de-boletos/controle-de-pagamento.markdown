@@ -6,7 +6,7 @@ position: 4
 
 No Boleto Simples você consegue controlar de forma simples e centralizada o pagamento dos boletos emitidos.
 
-![controle de pagamento.JPG](/api/v2/sites/5a6e42d4b89c4264923706aa/source/_uploads/controle%20de%20pagamento.JPG?download)
+![controle de pagamento-a41fda.JPG](/uploads/controle%20de%20pagamento-a41fda.JPG)
 
 Na página que reúne todos os boletos gerados na sua conta, é possível ver as principais informações de cada boleto:
 
