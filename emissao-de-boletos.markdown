@@ -8,13 +8,6 @@ anchors:
   boleto-fatura: Boleto Fatura
   carnê: Carnê
   assinatura: Assinatura
-  logomarca: Logomarca do Boleto
-  alteracao-vencimento: Alteração do vencimento e valor
-  cancelamento: Cancelamento do Boleto
-  copiar-boleto: Copiar boleto
-  controle-pagamento: Controle de Pagamento
-  observacoes-boleto: Observações por boleto
-  malha-seguranca: Malha de Segurança Exclusiva
 ---
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
