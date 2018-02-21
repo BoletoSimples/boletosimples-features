@@ -6,7 +6,7 @@ position: 6
 
 O Boleto Simples desenvolveu uma **malha de segurança exclusiva** que impede a adulteração dos boletos gerados pela plataforma.
 
-![malha.JPG](/api/v2/sites/5a6e42d4b89c4264923706aa/source/_uploads/malha.JPG?download)
+![malha-5dcd0a.JPG](/uploads/malha-5dcd0a.JPG)
 
 A malha de segurança consiste em uma **marca d’água** de padrões em azul que é única para cada boleto, impedindo que qualquer informação presente nele seja modificada.
 
