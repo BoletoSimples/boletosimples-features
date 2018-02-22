@@ -1,5 +1,5 @@
 ---
-title: Configuraçõe avançadas
+title: Configurações avançadas
 date: 2018-01-30 17:57:00 -02:00
 position: 20
 ---
