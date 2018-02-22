@@ -4,7 +4,7 @@ date: 2018-01-30 17:55:00 -02:00
 position: 5
 ---
 
-No Boleto Simples é muito simples configurar a mensagem das suas notificações, graças ao editor visual de email:
+No Boleto Simples é muito simples configurar a mensagem das suas notificações, graças ao **editor visual de email**:
 
 É só escrever a sua mensagem e formatá-la usando as ferramentas de edição de texto.
 
