@@ -10,4 +10,4 @@ Se você possui mais de uma carteira de cobrança ativa, é possível registrar 
 
 Assim, você pode aproveitar as diferentes vantagens oferecidas por cada banco na emissão dos Boletos.
 
-Na hora de emitir um Boleto, é só escolher qual carteira utilizar. Você pode adotar valores padrão para cada carteira de cobrança editando suas Configurações Avançadas e determinar uma Carteira Padrão que você utilizar com mais frequência.
+Na hora de emitir um Boleto, é só escolher qual carteira utilizar. Você pode adotar valores padrão para cada carteira de cobrança editando suas [Configurações Avançadas](http://boletosimples-features.siteleaf.net/configuracoe-avancadas/) e determinar uma Carteira Padrão que você utilizar com mais frequência.
