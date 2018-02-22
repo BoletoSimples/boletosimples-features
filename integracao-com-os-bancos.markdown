@@ -1,7 +1,7 @@
 ---
 title: Integração com os bancos
 date: 2018-01-30 17:48:00 -02:00
-position: 3
+position: 4
 anchors:
   multiplas-carteiras: Múltiplas Carteiras
   bancos-suportados: Bancos Suportados
