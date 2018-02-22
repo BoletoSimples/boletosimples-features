@@ -14,6 +14,6 @@ Você também pode definir os Juros e a Multa padrão nos seus boletos, além de
 
 ![config avançadas 2.JPG](/uploads/config%20avan%C3%A7adas%202.JPG)
 
-Essa configuração pode ser feita tanto no nível da sua conta como de carteira de cobrança. 
+Essa configuração pode ser feita tanto no nível da **conta** como no nível da **carteira de cobrança**. 
 
-Caso tenha mais de uma carteira de cobrança, é interessante definir os valores padrão de cada uma delas. Assim, as configurações da carteira vão se sobrepor às configurações gerais da conta.
+Caso tenha mais de uma carteira de cobrança, é interessante definir os valores padrão de cada uma delas. Assim, as configurações da carteira irão se sobrepor às configurações gerais da conta.
