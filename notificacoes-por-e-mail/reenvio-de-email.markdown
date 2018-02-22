@@ -8,4 +8,4 @@ Se você viu que um email não foi enviado, é fácil resolver: basta selecionar
 
 ![reenvio de email.jpg](/uploads/reenvio%20de%20email.jpg)
 
-Garanta que seus clientes recebam todas as notificações importantes, melhore a comunicação da sua empresa e aumente as chances de receber os pagamentos em dia.
+Garanta que seus clientes recebam todas as notificações importantes, melhore a comunicação da sua empresa e aumente as chances de receber os **pagamentos em dia**.
