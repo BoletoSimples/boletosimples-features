@@ -4,7 +4,7 @@ date: 2018-01-30 18:00:00 -02:00
 position: 3
 ---
 
-Na página de hospedagem do boleto o seu cliente também pode imprimir o boleto de forma prática, clicando no botão:
+Na página de hospedagem do boleto o seu cliente também pode imprimir o boleto de forma prática, apenas clicando no botão:
 
 ![Imprimir.png](/uploads/Imprimir.png)
 
