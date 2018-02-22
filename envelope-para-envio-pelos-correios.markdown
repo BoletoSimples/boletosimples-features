@@ -4,6 +4,8 @@ date: 2018-01-30 17:44:00 -02:00
 position: 15
 ---
 
-Ao gerar um boleto, o sistema já gera automaticamente o envelope para impressão no formato de imagem e PDF. Veja abaixo o exemplo de um envelope gerado pelo sistema.
+Ao gerar um boleto, o Boleto já gera também automaticamente o envelope para envio pelos Correios, no formato de imagem e PDF. 
+
+Veja abaixo o exemplo de um envelope gerado com todas as informações de remetente e destinatário:
 
 ![Envelope-4c646d.png](/uploads/Envelope-4c646d.png)
