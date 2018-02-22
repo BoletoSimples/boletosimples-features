@@ -4,7 +4,7 @@ date: 2018-01-30 18:04:00 -02:00
 position: 18
 ---
 
-O Boleto Simples fornece uma API simples e completa para integrar pagamentos por boletos bancários em seu site ou outros sistemas que você já usa.
+O Boleto Simples fornece uma **API simples e completa** para integrar pagamentos por boletos bancários em seu site ou outros sistemas que você já usa.
 
 Alguns dos grandes benefícios de usar a API são:
 
