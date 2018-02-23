@@ -16,4 +16,4 @@ Configurando o seu servidor de email você:
 
 * Pode escolher o email para onde serão enviadas as respostas dos clientes
 
-Além disso, o seu cliente saberá que o email está sendo enviado por você e isso aumenta a confiança na comunicação.
+Além disso, o seu cliente saberá que o email está sendo enviado por você e isso aumenta a **confiança** na comunicação.
