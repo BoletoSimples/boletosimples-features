@@ -28,7 +28,6 @@ No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteir
 
 Você pode personalizar logomarcas, configurar as condições de pagamento dos boletos e criar templates para evitar trabalho manual.
 
-
 Envie instantaneamente os boletos por email para seus clientes e acompanhe os pagamentos em tempo real - tudo dentro da mesma plataforma.
 
 ## Boleto de Cobrança
@@ -75,9 +74,8 @@ Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de ven
 
 ## Assinatura
 
-No Boleto Simples também é possível gerar uma assinatura em poucos minutos. É só escolher o valor a ser pago e as datas de vencimento das faturas.
+Se o seu serviço ou produto requer uma cobrança recorrente, no Boleto Simples também é possível gerar uma assinatura em poucos minutos. É só escolher o valor a ser pago e as datas de vencimento das faturas.
 
 ![assinaturas.jpg](/uploads/assinaturas.jpg)
 
-O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar. Saiba mais sobre assinaturas [aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
-
+O seu cliente vai receber cada boleto por email no prazo **prévio ao vencimento** da cobrança que você determinar. Saiba mais sobre assinaturas [aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
