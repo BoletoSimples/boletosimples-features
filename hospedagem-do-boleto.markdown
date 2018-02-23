@@ -10,4 +10,4 @@ Você pode compartilhar o documento sempre que quiser, escolhendo o melhor modo 
 
 ![compartilhamento do boleto.JPG](/uploads/compartilhamento%20do%20boleto.JPG)
 
-Não precisa se preocupar em fazer o download e enviar o arquivo em anexo. É só clicar para copiar o link e até mesmo enviar diretamente pelo Whatsapp se quiser!
+Não precisa se preocupar em fazer o download e enviar o arquivo em anexo. É só clicar para copiar o link e até mesmo enviar diretamente pelo Whatsapp!
