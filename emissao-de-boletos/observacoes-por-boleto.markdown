@@ -4,7 +4,7 @@ date: 2018-01-30 17:48:00 -02:00
 position: 5
 ---
 
-Na visualização individual dos boletos, o campo Observações permite adicionar informações extras sobre aquele documento.
+Na visualização individual dos boletos, o campo **Observações** permite adicionar informações extras sobre aquele documento.
 
 ![observacoes-dc5616.JPG](/uploads/observacoes-dc5616.JPG)
 
