@@ -26,8 +26,6 @@ No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteir
 
 * Assinaturas
 
-* 
-
 Você pode personalizar logomarcas, configurar as condições de pagamento dos boletos e criar templates para evitar trabalho manual.
 
 
