@@ -11,7 +11,7 @@ O mesmo pode ser feito com as assinaturas que você já tiver criado anteriormen
 
 A importação livra você do trabalho de incluir cada cliente ou assinatura manualmente no Boleto Simples, migrando todos os registros de forma centralizada e rápida.
 
-Também é possível \*\*exportar arquivos \*\*de boletos, carnês, assinaturas e registros de clientes que você criar no Boleto Simples.
+Também é possível **exportar arquivos** de boletos, carnês, assinaturas e registros de clientes que você criar no Boleto Simples.
 
 ![exportar.png](/uploads/exportar.png)
 
