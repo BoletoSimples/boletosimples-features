@@ -81,6 +81,3 @@ No Boleto Simples também é possível gerar uma assinatura em poucos minutos. �
 
 O seu cliente vai receber cada boleto por email no prazo prévio ao vencimento da cobrança que você determinar. Saiba mais sobre assinaturas [aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
 
-## 
-
-## 
