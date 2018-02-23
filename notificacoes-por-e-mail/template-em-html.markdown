@@ -8,8 +8,7 @@ Com o Boleto Simples é possível enviar notificações por email para seus clie
 
 * exemplo de template aqui -
 
-Editando templates de email com conhecimentos básicos de HTML e CSS, você melhora a comunicação com o cliente e reforça a **identidade visual **da sua marca.
-
+Editando templates de email com conhecimentos básicos de HTML e CSS, você melhora a comunicação com o cliente e reforça a **identidade visual** da sua marca.
 
 Para quem não tem familiaridade com HTML, existe um modelo padrão que já vem configurado na plataforma:
 
