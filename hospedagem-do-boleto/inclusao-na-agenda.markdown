@@ -4,7 +4,7 @@ date: 2018-01-30 15:41:00 -02:00
 position: 2
 ---
 
-Que tal ajudar o seu cliente a não esquecer de fazer o pagamento do boleto?
+Que tal ajudar as pessoas a não esquecerem de fazer o pagamento do boleto?
 
 Enviando o link para o boleto, o seu cliente abrirá uma página como essa:
 
