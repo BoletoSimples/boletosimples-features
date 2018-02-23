@@ -6,7 +6,7 @@ position: 0
 
 Você pode configurar o seu próprio servidor de email para fazer os envios de notificações pelo Boleto Simples.
 
-Assim, os emails serão enviados pela plataforma por remetente escolhido por você.
+Assim, os emails serão enviados pela plataforma com o remetente escolhido por você.
 
 ![servidor.JPG](/uploads/servidor.JPG)
 
@@ -16,4 +16,4 @@ Configurando o seu servidor de email você:
 
 * Pode escolher o email para onde serão enviadas as respostas dos clientes
 
-Além disso, o seu cliente saberá que o email está sendo enviado por você e isso aumenta a confiança na comunicação.
+Além disso, o seu cliente saberá que o email está sendo enviado por você e isso aumenta a **confiança** na comunicação.
