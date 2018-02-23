@@ -74,7 +74,7 @@ Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de ven
 
 ## Assinatura
 
-No Boleto Simples também é possível gerar uma assinatura em poucos minutos. É só escolher o valor a ser pago e as datas de vencimento das faturas.
+Se o seu serviço ou produto requer uma cobrança recorrente, no Boleto Simples também é possível gerar uma assinatura em poucos minutos. É só escolher o valor a ser pago e as datas de vencimento das faturas.
 
 ![assinaturas.jpg](/uploads/assinaturas.jpg)
 
