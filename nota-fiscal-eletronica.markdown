@@ -6,7 +6,7 @@ position: 9
 
 O Boleto Simples oferece uma integração com o **eNotas**, que faz a emissão de notas fiscais eletrônicas de serviço e de produto (NFS-e e NF-e).
 
-Com a integração, as **notas fiscais **dos boletos emitidos são geradas automaticamente e você pode gerenciá-las dentro do próprio Boleto Simples.
+Com a integração, as **notas fiscais** dos boletos emitidos são geradas automaticamente e você pode gerenciá-las dentro do próprio Boleto Simples.
 
 Assim fica fácil:
 
