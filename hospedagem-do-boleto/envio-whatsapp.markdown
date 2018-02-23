@@ -10,9 +10,9 @@ Além de configurar emails automáticos para o envio dos boletos, você também 
 
 ![compartilhamento do boleto-aac023.JPG](/uploads/compartilhamento%20do%20boleto-aac023.JPG)
 
-O Boleto Simples está conectado ao Whatsapp via API, é só editar a mensagem se quiser e confirmar o envio na página:
+O Boleto Simples está conectado ao Whatsapp via API e você será redirecionado para o Whatsapp Web. 
 
 ![whatsapp.JPG](/uploads/whatsapp.JPG)
 
-Você será direcionado para o Whatsapp Web e poderá escolher o contato na sua lista. Seu cliente receberá o boleto e poderá fazer o pagamento na mesma hora pelo aplicativo do banco.
+Seu cliente receberá o boleto e poderá fazer o pagamento na mesma hora pelo aplicativo do banco.
 Mais agilidade para o seu negócio crescer!
