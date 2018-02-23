@@ -6,7 +6,7 @@ position: 2
 
 Que tal ajudar as pessoas a não esquecerem de fazer o pagamento do boleto?
 
-Enviando o link para o boleto, o seu cliente abrirá uma página como essa:
+Enviando por email o link para o boleto, o seu cliente abrirá uma página como essa:
 
 ![link boleto-d4756a.JPG](/uploads/link%20boleto-d4756a.JPG)
 
