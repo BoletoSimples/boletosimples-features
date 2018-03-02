@@ -6,8 +6,11 @@ position: 0
 
 Inclua no layout dos seus boletos a logomarca do seu próprio negócio no recibo do pagador:
 
-![logomarca ok.jpg](/uploads/logomarca%20ok.jpg)
+![logo.jpg](/uploads/logo.jpg)
 
-A Logomarca não é obrigatória para gerar um boleto, mas é um recurso útil que facilita a visualização e a organização do seu cliente. 
+A Logomarca não é obrigatória para gerar um boleto, mas é um recurso útil que facilita a visualização e a organização do seu cliente.\
+Você pode cadastrar uma logomarca em cada modelo de boleto que criar na plataforma:\
+\
+![modelo e logomarca.JPG](/uploads/modelo%20e%20logomarca.JPG)
 
-Assim, batendo o olho ele já vai saber do que se trata o documento.
+Escolhendo um modelo na hora de gerar o novo boleto, todas as configurações do modelo se aplicarão a ele. A presença da logomarca reforça a identidade do seu negócio e facilita  o pagamento para o cliente.
