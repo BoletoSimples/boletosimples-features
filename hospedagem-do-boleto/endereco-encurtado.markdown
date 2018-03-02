@@ -4,9 +4,9 @@ date: 2018-01-30 18:02:00 -02:00
 position: 0
 ---
 
-O Boleto Simples envia automaticamente para o seu cliente um email com o **link do boleto**, assim que ele for emitido.
-
-O link é uma URL encurtada, como essa: https://bole.to/3/ejebd
+Cada boleto gerado no Boleto Simples fica hospedado online para sempre, em um link encurtado como esse: https://bole.to/3/ejebd\
+\
+Esse link pode ser usado pra enviar o boleto por email, Whatsapp, Skype, Messeger, SMS ou qualquer outro meio de comunicação. Ele será usado também na notificação por email do Boleto Simples, se ela estiver ativada na sua conta. 
 
 Você pode acessar o link sempre que quiser, na página de visualização do boleto dentro da plataforma:
 
