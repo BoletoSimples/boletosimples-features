@@ -16,4 +16,12 @@ Na página que reúne todos os boletos gerados na sua conta, é possível ver as
 
 * **Data de pagamento:** tenha um registro confiável e automático de todos os pagamentos
 
-Além disso, também é fácil configurar notificações para você receber um email toda vez que um boleto tem o pagamento confirmado.
+Também é fácil configurar notificações para você receber um email toda vez que um boleto tem o pagamento confirmado.
+
+Além de o pagamento ser lido automaticamente do arquivo remessa, ele pode ser informado manualmente. Você mesmo pode marcar um boleto como pago:\
+\
+![marcar como pago.JPG](/uploads/marcar%20como%20pago.JPG)\
+\
+\
+\
+Quando o boleto é marcado como pago manualmente, o Boleto Simples gera um comando de baixa de título que será enviado na próxima remessa.
