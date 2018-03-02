@@ -8,6 +8,6 @@ O Boleto Simples desenvolveu uma **malha de segurança exclusiva** que impede a 
 
 ![malha-5dcd0a.JPG](/uploads/malha-5dcd0a.JPG)
 
-A malha de segurança consiste em uma **marca d’água** de padrões em azul. Ela é única para cada boleto, impedindo que qualquer informação presente nele seja modificada.
+A malha de segurança é uma imagem não uniforme que impede a alteração dos dados do boleto em editores de imagem, como o Photoshop. 
 
 Isso garante maior segurança para os seus clientes e para o seu negócio.
