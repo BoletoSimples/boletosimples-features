@@ -14,10 +14,10 @@ Nas configurações avançadas da sua conta, você pode definir a mensagem padr�
 
 ![configurar mensagem.JPG](/uploads/configurar%20mensagem.JPG)
 
-\
+
 A mensagem será gerada automaticamente para cada boleto:
 
-\
+
 ![compartilhamento do boleto-aac023.JPG](/uploads/compartilhamento%20do%20boleto-aac023.JPG)
 
 Como Boleto Simples está conectado ao Whatsapp via API, a mensagem será enviada diretamente pelo Whatsapp Web.
