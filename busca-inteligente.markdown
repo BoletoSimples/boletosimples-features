@@ -1,7 +1,7 @@
 ---
 title: Busca inteligente
 date: 2018-01-30 17:54:00 -02:00
-position: 14
+position: 12
 ---
 
 O Boleto Simples conta com um sistema de **busca inteligente** que te ajuda a encontrar qualquer informação dentro da sua conta em poucos segundos.

@@ -1,7 +1,7 @@
 ---
 title: Leitura arquivo retorno
 date: 2018-01-30 17:53:00 -02:00
-position: 11
+position: 10
 ---
 
 O Boleto Simples faz a **leitura automática do arquivo de retorno** gerado pelo seu banco.

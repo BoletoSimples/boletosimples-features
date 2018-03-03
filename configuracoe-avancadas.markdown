@@ -1,7 +1,7 @@
 ---
 title: Configurações avançadas
 date: 2018-01-30 17:57:00 -02:00
-position: 20
+position: 18
 ---
 
 Para padronizar seus boletos e economizar ainda mais tempo ao emiti-los, você pode definir valores padrão nas **Configurações Avançadas** da sua conta.

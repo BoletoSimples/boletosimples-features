@@ -1,7 +1,7 @@
 ---
 title: Geração de arquivo remessa
 date: 2018-01-30 17:53:00 -02:00
-position: 10
+position: 9
 ---
 
 Sempre que emitir boletos no Boleto Simples, você pode gerar o **arquivo da remessa** em um clique:
