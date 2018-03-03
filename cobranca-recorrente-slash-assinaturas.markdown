@@ -20,3 +20,5 @@ Acompanhe o status de pagamento, o vencimento e até gere a próxima cobrança q
 ![assinatura jpg-94c6d3.JPG](/uploads/assinatura%20jpg-94c6d3.JPG)
 
 Automatizando as cobranças você economiza tempo e evita preocupações desnecessárias. Isso dá mais segurança para o seu negócio e também para os seus clientes!
+
+Quer saber mais sobre como é fácil criar assinaturas? [Clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001006293-Como-criar-uma-assinatura).
