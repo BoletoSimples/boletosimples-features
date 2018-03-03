@@ -29,13 +29,13 @@ Para a importação de sua base de clientes, você só precisa ter as informaç�
 
 A importação livra você do trabalho de incluir cada registro manualmente no Boleto Simples, migrando todas as informações de forma centralizada e rápida.
 
-## Importação de boletos via arquivo remessa
+### Importação de boletos via arquivo remessa
 
 Você pode usar o arquivo remessa para importar boletos que foram gerados em outro sistema. Assim,  o Boleto Simples vai hospedar os boletos criados e você pode aproveitar todas as outras vantagens da plataforma.
 
 ![importacao remessa.JPG](/uploads/importacao%20remessa.JPG)
 
-## Migração para o Boleto Simples
+### Migração para o Boleto Simples
 
 Os recursos de importação facilitam a sua migração de um sistema antigo para o Boleto Simples.
 
