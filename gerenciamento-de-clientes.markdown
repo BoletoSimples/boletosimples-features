@@ -6,6 +6,8 @@ position: 8
 
 Os seus clientes não precisam ter uma conta no Boleto Simples para aproveitar as vantagens da plataforma. Basta você cadastrar os dados básicos deles para emitir e enviar cobranças.
 
+Você pode [importar e exportar](http://boletosimples-features.siteleaf.net/importacao-exportacao/) a sua base de clientes de forma muito prática. 
+
 Com isso, o Boleto Simples também te ajuda no **gerenciamento de clientes**, centralizando todas as informações importantes sobre eles em um mesmo lugar.
 
 ![clientes.JPG](/uploads/clientes.JPG)
