@@ -16,7 +16,7 @@ O restante dos comandos ainda depende da troca de arquivos de Remessa e Retorno:
 
 Veja a lista completa de comandos suportados pela integração do Boleto Simples com os bancos:
 
-## Comandos enviados no arquivo remessa
+### Comandos enviados no arquivo remessa
 
 * Entrada de Título
 
@@ -62,7 +62,7 @@ Veja a lista completa de comandos suportados pela integração do Boleto Simples
 
 * Cancelar negativação expressa
 
-## Comandos lidos do arquivo retorno
+### Comandos lidos do arquivo retorno
 
 * Entrada Confirmada
 
