@@ -68,14 +68,20 @@ Esses são os eventos de diferentes severidades que podem gerar alertas no Bolet
 
 # Alertas por E-mail
 
-Você pode configurar a sua conta do Boleto Simples para receber alertas da plataforma no seu email. Assim, você não corre o risco de perder uma informação importante e pode atuar rapidamente quando necessário.
+Você pode configurar a sua conta do Boleto Simples para receber alertas da plataforma no seu email. Assim, você não corre o risco de perder uma informação importante e pode atuar rapidamente quando necessário. É só acessar as Configurações Avançadas:
 
-![email alerta.jpg](/uploads/email%20alerta.jpg)
+![alertas configuras.JPG](/uploads/alertas%20configuras.JPG)
 
 * Escolha o endereço de email onde quer receber os alertas.
 
 * Determine quais tipos de alertas deseja receber por email: pode ser só alertas de nível Crítico, por exemplo.
 
 * Mantenha-se informado sem lotar a sua caixa de entrada com avisos não urgentes.
+
+Saiba mais sobre a configuração de emails de alerta [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001378453-Como-receber-Alertas-por-email). 
+
+As mensagens enviadas para o seu email serão assim:
+
+![alertas.jpg](/uploads/alertas.jpg)
 
 O Boleto Simples garante a você maior controle sobre o que acontece com o seu negócio  e agilidade na tomada de decisões estratégicas.
