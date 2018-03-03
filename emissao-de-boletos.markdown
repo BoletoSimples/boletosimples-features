@@ -28,7 +28,7 @@ No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteir
 
 Você pode personalizar logomarcas, configurar as condições de pagamento dos boletos e criar templates para evitar trabalho manual.
 
-Envie instantaneamente os boletos por email para seus clientes e acompanhe os pagamentos em tempo real - tudo dentro da mesma plataforma.
+Envie instantaneamente os boletos por email para seus clientes e acompanhe os pagamentos em tempo real - tudo dentro da mesma plataforma. Além disso, os boletos emitidos na plataforma estão de acordo com as regras da [Nova Plataforma de Cobrança](http://boletosimples-features.siteleaf.net/suporte-a-nova-plataforma-de-cobranca/).
 
 ## Boleto de Cobrança
 
