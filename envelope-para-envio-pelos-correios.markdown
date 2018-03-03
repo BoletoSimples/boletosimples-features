@@ -9,6 +9,7 @@ Ao gerar um boleto, o Boleto já gera também automaticamente o **envelope para 
 Veja abaixo o exemplo de um envelope gerado com todas as **informações de remetente e destinatário**:
 
 ![Envelope-4c646d.png](/uploads/Envelope-4c646d.png)\
-\\
 
-Com boleto e envelope prontos, é só imprimir e enviar para o seu cliente!
+Com boleto e envelope prontos, é só imprimir e enviar para o seu cliente!\
+\
+Saiba mais sobre como gerar envelopes [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001280373-Como-gerar-um-envelope-para-o-seu-boleto).
