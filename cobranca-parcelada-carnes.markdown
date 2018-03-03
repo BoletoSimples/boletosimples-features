@@ -10,7 +10,11 @@ Para pagamentos parcelados, o Boleto Simples permite gerar boletos em layout de 
 
 Você define o valor, a quantidade de parcelas e o vencimento delas. 
 
-Os boletos são gerados de uma única vez e você pode acompanhar os status dos pagamentos pela própria plataforma!
+Veja o exemplo de 3 parcelas de um carnê:\
+\
+![carne-3-parcelas.JPG](/uploads/carne-3-parcelas.JPG)
+
+Os boletos são **gerados de uma única vez** e você pode acompanhar os status dos pagamentos pela própria plataforma!
 
 ![carnê status.JPG](/uploads/carn%C3%AA%20status.JPG)
 
