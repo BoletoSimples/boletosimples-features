@@ -1,7 +1,7 @@
 ---
 title: Malha de segurança (exclusivo!)
 date: 2018-01-30 17:47:00 -02:00
-position: 6
+position: 7
 ---
 
 O Boleto Simples desenvolveu uma **malha de segurança exclusiva** que impede a adulteração dos boletos gerados pela plataforma.
