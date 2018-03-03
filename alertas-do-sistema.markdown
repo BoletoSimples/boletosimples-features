@@ -21,9 +21,52 @@ Cada notificação de alerta tem uma cor que indica a sua gravidade, na escala: 
 
 Além de receber os avisos na plataforma, também é possível configurar a sua conta para você recebê-los por email.
 
-## Possíveis alertas
+# Possíveis alertas
 
-## Alertas por E-mail
+Esses são os eventos de diferentes severidades que podem gerar alertas no Boleto Simples:
+
+* Boletos excedentes
+
+* Boleto pago
+
+* Novidades, melhorias e correções do Boleto Simples
+
+* Quando um boleto está inválido na hora da geração
+  
+
+* Quando o valor do boleto pago é diferente do valor cobrado
+  
+
+* Quando um webhook dá erro pela quinta vez
+  
+
+* Quando um e-mail dá erro no envio pela 5ª vez
+  
+
+* Quando uma importação de clientes é finalizada
+  
+
+* Quando uma importação de assinaturas é finalizada
+  
+
+* Quando a conta de email dá erro pela 10ª vez e é desabilitada
+  
+
+* Quando recebemos o pagamento por boleto e cartão
+  
+
+* Quando dá erro ao salvar uma remessa
+  
+
+* Quando os dados estão inválidos no registro do boleto
+  
+
+* Quando dá erro no registro do boleto
+  
+
+* Quando uma importação de boletos é finalizada
+
+# Alertas por E-mail
 
 Você pode configurar a sua conta do Boleto Simples para receber alertas da plataforma no seu email. Assim, você não corre o risco de perder uma informação importante e pode atuar rapidamente quando necessário.
 
@@ -34,6 +77,5 @@ Você pode configurar a sua conta do Boleto Simples para receber alertas da plat
 * Determine quais tipos de alertas deseja receber por email: pode ser só alertas de nível Crítico, por exemplo.
 
 * Mantenha-se informado sem lotar a sua caixa de entrada com avisos não urgentes.
-
 
 O Boleto Simples garante a você maior controle sobre o que acontece com o seu negócio  e agilidade na tomada de decisões estratégicas.
