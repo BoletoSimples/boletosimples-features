@@ -40,4 +40,4 @@ Os principais bancos do país já estão integrados ao Boleto Simples:
 
 * Santander
 
-Se você tem uma carteira ou um banco que ainda não suportados, nós garantimos a implementação em\*\* menos de 30 dias\*\*. Esse é o nosso *core business* e nossa meta é suportar 100% dos casos.\\
+Se você tem uma carteira ou um banco que ainda não suportados, nós garantimos a implementação em **menos de 30 dias**. Esse é o nosso *core business* e nossa meta é suportar 100% dos casos.
