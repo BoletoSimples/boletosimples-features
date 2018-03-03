@@ -1,7 +1,7 @@
 ---
 title: Controle de pagamento
 date: 2018-01-30 15:13:00 -02:00
-position: 5
+position: 6
 ---
 
 No Boleto Simples você consegue controlar de forma simples e centralizada o pagamento dos boletos emitidos.

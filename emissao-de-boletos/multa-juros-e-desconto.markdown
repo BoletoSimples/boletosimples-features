@@ -1,7 +1,7 @@
 ---
 title: Multa, Juros e Desconto
 date: 2018-03-03 16:45:00 -03:00
-position: 21
+position: 1
 ---
 
 O Boleto Simples permite configurar valores de juros, de multa e até de descontos para os boletos gerados. Saiba mais sobre como funciona cada um desses recursos:
