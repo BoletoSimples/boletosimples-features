@@ -18,4 +18,6 @@ Assim fica fácil:
 
 * Enviar a nota por email ou até mesmo cancelá-la.
 
-Além disso, o eNotas cuida da comunicação com a sua prefeitura para você não perder tempo com a burocracia.
+Além disso, o eNotas cuida da comunicação com a sua prefeitura para você não perder tempo com a burocracia.\
+\
+Saiba mais sobre a integração do Boleto Simples com o eNotas [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001029333-Como-gerar-nota-fiscal-para-boleto-registrado-com-Boleto-Simples-e-eNotas).
