@@ -46,6 +46,9 @@ Com o Boleto Simples, você se livra dos sistemas complexos dos bancos e consegu
 
 Para deixar tudo ainda mais simples, é possível criar e usar templates com as informações mais usadas nas suas vendas. Depois, é só acompanhar o status do pagamento e você vai receber o valor automaticamente na sua conta.
 
+\
+[Clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001006013-Como-emitir-um-boleto-registrado) para saber mais sobre como emitir boletos no Boleto Simples.
+
 ## Boleto Fatura
 
 O Boleto Simples permite a emissão de boletos no formato de fatura, usados para cobranças que exigem maior detalhamento sobre o produto adquirido ou o serviço prestado.
@@ -54,7 +57,7 @@ O Boleto Simples permite a emissão de boletos no formato de fatura, usados para
 
 Personalize as informações que serão incluídas no demonstrativo usando **tags HTML e Markdown**. O Markdown é uma das linguagens de marcação leves mais populares atualmente, permitindo editar o texto inserindo negrito, itálico, links e títulos.
 
-Assim, a formatação fica personalizada para as necessidades do seu negócio!
+Assim, a formatação fica personalizada para as necessidades do seu negócio! Saiba mais sobre a emissão de boletos fatura [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115000584774-Como-criar-um-boleto-fatura-no-Boleto-Simples).
 
 ## Carnê
 
