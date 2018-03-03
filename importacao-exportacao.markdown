@@ -41,8 +41,10 @@ Os recursos de importação facilitam a sua migração de um sistema antigo para
 
 Importe via arquivos CSV:
 
-* Sua base de Clientes
+* Sua base de clientes
 
 * Todas as assinaturas
 
-* Registro dos boletos
+* Boletos antigos
+
+Assim, você evita dor de cabeça e garante que todos os seus registros estejam no novo sistema. 
