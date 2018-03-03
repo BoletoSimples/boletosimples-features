@@ -17,3 +17,5 @@ Configurando o seu servidor de email você:
 * Pode escolher o email para onde serão enviadas as respostas dos clientes
 
 Além disso, o seu cliente saberá que o email está sendo enviado por você e isso aumenta a **confiança** na comunicação.
+
+Saiba mais sobre como configurar seu email no Boleto Simples [clicando aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/222212287-Como-configurar-seu-email-no-Boleto-Simples-).
