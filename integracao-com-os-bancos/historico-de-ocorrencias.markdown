@@ -8,6 +8,8 @@ O Boleto Simples mantém um **registro de ocorrências** para cada boleto gerado
 
 ![ocorrencia ok.png](/uploads/ocorrencia%20ok.png)
 
+As ocorrências são relativas aos [comandos suportados pelo Boleto Simples](http://boletosimples-features.siteleaf.net/integracao-com-os-bancos/notificacoes-suportadas/).
+
 A **Tela de Pendências** reúne todas as ocorrências que deverão entrar na sua próxima remessa ao banco.
 Aqui, é possível visualizar e excluir eventos que ainda não foram enviados ao banco.
 
