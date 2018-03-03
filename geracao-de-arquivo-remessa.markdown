@@ -8,8 +8,12 @@ Sempre que emitir boletos no Boleto Simples, você pode gerar o **arquivo da rem
 
 ![gerar remessa.jpg](/uploads/gerar%20remessa.jpg)
 
-Em cada remessa ficam listados todos os boletos gerados, e você pode visualizar as principais informações de cada um deles:
+Na remessa você por ver todos os comandos presentes nela:
 
 ![remessa detalhes.JPG](/uploads/remessa%20detalhes.JPG)
 
-É só clicar em **Download** para baixar o arquivo da remessa e depois fazer o upload dele para o seu Internet Banking.
+É só clicar em **Download** para baixar o arquivo da remessa e depois fazer o upload dele para o seu Internet Banking. 
+
+Se a **Conexão Online** com o banco estiver ativada, não precisa se preocupar em fazer download porque o envio das remessas será feito de forma totalmente automatizada. \
+
+Saiba mais sobre os recursos de trocas de arquivos [aqui!](http://boletosimples-features.siteleaf.net/integracao-com-os-bancos/troca-de-arquivos/)
