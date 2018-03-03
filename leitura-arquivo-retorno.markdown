@@ -11,4 +11,7 @@ Para isso, é só selecionar o arquivo no seu computador e fazer o upload para a
 ![retorno.JPG](/uploads/retorno.JPG)
 
 O Boleto Simples lê as informações do arquivo e atualiza automaticamente os status dos boletos na plataforma.
-Isso garante que as informações sobre os pagamentos estejam sempre corretas e em dia!
+
+Se a **Conexão Online** com o banco estiver ativada, não precisa enviar o arquivo retorno porque ele será recebido de forma automática no Boleto Simples.
+
+Isso garante que as informações sobre os pagamentos estejam sempre corretas e em dia! [Clique aqui](http://boletosimples-features.siteleaf.net/integracao-com-os-bancos/troca-de-arquivos/) para saber mais sobre a troca de arquivos com os bancos.
