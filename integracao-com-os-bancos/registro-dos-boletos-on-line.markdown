@@ -6,7 +6,6 @@ position: 3
 
 Com as regras da Nova Plataforma de Cobrança, boletos de qualquer valor só poderão ser pagos após terem sido **registrados**. Ou seja, é super importante que o registro seja feito logo que o boleto é emitido.
 
-
 O Boleto Simples é integrado aos **novos webservices** dos bancos. Via API, o registro dos boletos é feito sempre que um boleto é emitido na plataforma.
 
 Como Boleto Simples o registro dos boletos é:
@@ -17,5 +16,4 @@ Como Boleto Simples o registro dos boletos é:
 
 * Seguro
 
-
-Assim, você não corre o risco de enviar o boleto para um cliente e ele não conseguir pagar porque ainda não está registrado no banco.
+Assim, você não corre o risco de enviar o boleto para um cliente e ele não conseguir pagar porque ainda não está registrado no banco. Saiba mais sobre como utilizar webservices do seu banco [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/360000855973-Conex%C3%A3o-online-com-o-banco-atrav%C3%A9s-de-Webservice).
