@@ -18,4 +18,4 @@ Alguns dos grandes benefícios de usar a API são:
 
 * Liberdade para fazer o que for melhor para o seu negócio, da forma como quiser - o seu desenvolvedor vai adorar.
 
-A API dá suporte a todas as operações do Boleto Simples. Você pode acessar a documentação completa [clicando aqui](https://api.boletosimples.com.br/). https://api.boletosimples.com.br/
+A API dá suporte a todas as operações do Boleto Simples. Você pode acessar a documentação completa no link: https://api.boletosimples.com.br/
