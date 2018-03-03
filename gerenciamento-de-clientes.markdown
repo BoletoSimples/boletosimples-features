@@ -16,6 +16,6 @@ No cadastro de cada cliente você terá um histórico de todas as cobranças emi
 
 ![cliente.JPG](/uploads/cliente.JPG)
 
-Você ganha controle e visibilidade dos dados dos clientes!\
-\
+Você ganha controle e visibilidade dos dados dos clientes!
+
 Saiba mais sobre o cadastro e a importação de clientes[ aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001005833-Como-fazer-o-cadastro-de-clientes).
