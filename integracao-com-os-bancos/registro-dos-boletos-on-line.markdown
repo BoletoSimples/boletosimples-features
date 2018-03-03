@@ -4,7 +4,7 @@ date: 2018-01-30 17:49:00 -02:00
 position: 3
 ---
 
-Com as regras da Nova Plataforma de Cobrança, boletos de qualquer valor só poderão ser pagos após terem sido **registrados**. Ou seja, é super importante que o registro seja feito logo que o boleto é emitido.
+Com as regras da [Nova Plataforma de Cobrança](http://boletosimples-features.siteleaf.net/suporte-a-nova-plataforma-de-cobranca/), boletos de qualquer valor só poderão ser pagos após terem sido **registrados**. Ou seja, é super importante que o registro seja feito logo que o boleto é emitido.
 
 O Boleto Simples é integrado aos **novos webservices** dos bancos. Via API, o registro dos boletos é feito sempre que um boleto é emitido na plataforma.
 
