@@ -10,7 +10,7 @@ Hoje, o serviço de webservice dos bancos permite o envio do **comando de regist
 
 O restante dos comandos ainda depende da troca de arquivos de Remessa e Retorno:
 
-* Na **Remessa**, dois comandos muito comuns são a *Entrada de Título* e o *Pedido de Baixa*, ou seja, as informações de quando um boleto é emitido e quando ele é cancelado.
+* Na **Remessa**, dois comandos muito comuns são a *Entrada de Título* e o *Pedido de Baixa*, ou seja, as informações de quando um boleto é emitido e quando ele é cancelado ou pago.
 
 * O arquivo de **Retorno** contém comandos importantes como *Entrada Confirmada* ou *Entrada Rejeitada*, que mostra o sucesso do envio das informações, e a *Liquidação*, que informa o pagamento do boleto.
 
