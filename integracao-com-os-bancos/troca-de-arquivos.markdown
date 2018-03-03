@@ -15,6 +15,6 @@ Isso garante:
 
 * **Redução dos erros e pendências de registro:** evite erros e não esqueça de incluir nenhum boleto na remessa
 
-* \*\*Otimização do seu tempo: \*\*nada de trabalho manual, deixe a gente resolver isso pra você.
+* **Otimização do seu tempo: **nada de trabalho manual, deixe a gente resolver isso pra você.
 
 Nenhum acesso à sua conta bancária será realizado por nós. O Boleto Simples apenas enviará automaticamente o arquivo remessa ao banco e ele nos enviará o arquivo retorno.
