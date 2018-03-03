@@ -8,19 +8,36 @@ Com a Nova Plataforma de Cobrança, o cadastro dos boletos passa a ser feito onl
 
 Os principais bancos do país já estão integrados ao Boleto Simples:
 
-* Itaú
-
-* Bradesco
-
-* Santander
-
 * Banco do Brasil
 
-* Caixa Econômica
+* Banco do Nordeste
+
+* Banco de Brasília
+
+* Banestes
 
 * Banrisul
 
+* Bradesco
+
+* Caixa Econômica Federal
+
+* CECRED
+
+* Citibank
+
+* Credisis
+
+* HSBC
+
+* Itaú
+
+* Safra
+
+* Sicoob
+
 * Sicredi
 
+* Santander
 
-Muitos outros bancos já estão em processo de integração. Se você possui conta em outro banco, entre em contato com a gente.
+Se você tem uma carteira ou um banco que ainda não suportados, nós garantimos a implementação em** menos de 30 dias**. Esse é o nosso *core business* e nossa meta é suportar 100% dos casos.\
