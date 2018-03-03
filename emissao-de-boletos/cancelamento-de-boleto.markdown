@@ -1,7 +1,7 @@
 ---
 title: Cancelamento de boleto
 date: 2018-01-30 18:47:00 -02:00
-position: 2
+position: 3
 ---
 
 É possível cancelar um boleto a qualquer momento e em um só clique.

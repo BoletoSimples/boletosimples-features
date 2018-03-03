@@ -1,7 +1,7 @@
 ---
 title: Observações por boleto
 date: 2018-01-30 17:48:00 -02:00
-position: 5
+position: 7
 ---
 
 Na visualização individual dos boletos, o campo **Observações** permite adicionar informações extras sobre aquele documento.

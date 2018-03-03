@@ -1,7 +1,7 @@
 ---
 title: Copiar boleto
 date: 2018-01-30 15:13:00 -02:00
-position: 3
+position: 5
 ---
 
 Quer reutilizar as informações de boleto já gerado em um novo boleto? Não precisa fazer tudo de novo!
