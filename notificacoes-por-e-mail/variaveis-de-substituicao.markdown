@@ -16,6 +16,6 @@ Esse é um recurso poderoso, que usa um processador de templates que permite per
 
 Você também pode incluir nas mensagens outros dados importantes, como o número do documento, a parcela do carnê ou o período de assinatura. [Veja aqui a lista de todas as variáveis disponíveis](https://suporte.boletosimples.com.br/article/gzqu55ajrb-variaveis-que-podem-ser-usadas-nos-boletos-e-notificacoes).
 
-Personalize seu email como quiser, sem escrever uma linha de código!\
-\
+Personalize seu email como quiser, sem escrever uma linha de código!
+
 Para saber mais sobre como usar variáveis de subtituição, é só clicar [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001534733-Como-usar-vari%C3%A1veis-nos-seus-emails-do-Boleto-Simples).
