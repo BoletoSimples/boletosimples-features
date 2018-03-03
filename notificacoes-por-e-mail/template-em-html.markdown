@@ -16,4 +16,6 @@ Os email enviados com o template padrão ficam assim:
 
 ![template visualizar-58166f.JPG](/uploads/template%20visualizar-58166f.JPG)
 
-No Boleto Simples você encontra a praticidade nas configurações básicas e possibilidades ilimitadas nas configurações avançadas.
+No Boleto Simples você encontra a praticidade nas configurações básicas e possibilidades ilimitadas nas configurações avançadas.\
+\
+Para saber mais sobre a configuração de templates de email, [clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001634353-Posso-configurar-Templates-de-email-no-Boleto-Simples-).
