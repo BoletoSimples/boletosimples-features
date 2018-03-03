@@ -1,7 +1,7 @@
 ---
 title: Suporte à Nova Plataforma de Cobrança
 date: 2018-03-03 16:33:00 -03:00
-position: 12
+position: 16
 ---
 
 A FEBRABAN (Federação Brasileira de Bancos) anunciou em meados de 2015 o projeto da Nova Plataforma da Cobrança, que tem como objetivo modernizar o processo de liquidação dos boletos bancários para trazer mais segurança e transparência aos pagamentos. Dentre as principais mudanças, está o fim do boleto sem registro.
