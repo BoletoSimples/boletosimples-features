@@ -81,4 +81,4 @@ Se o seu serviço ou produto requer uma cobrança recorrente, no Boleto Simples 
 
 ![assinaturas.jpg](/uploads/assinaturas.jpg)
 
-O seu cliente vai receber cada boleto por email no prazo **prévio ao vencimento** da cobrança que você determinar. Saiba mais sobre assinaturas [aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
+O seu cliente vai receber cada boleto por email no prazo **prévio ao vencimento** da cobrança que você determinar. [Saiba mais sobre assinaturas aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
