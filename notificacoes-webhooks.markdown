@@ -13,4 +13,4 @@ Por exemplo, é muito útil configurar um webhook para dar **baixa nos boletos**
 
 Esse é um recurso muito relevante para que seu sistema possa ser atualizado com as informações que são geradas dentro do Boleto Simples a cada evento que ocorre na plataforma.
 
-Para saber mais sobre o funcionamento dos webhooks no Boleto Simples, [clique aqui](https://api.boletosimples.com.br/webhooks/).
+Saiba mais sobre o [funcionamento dos webhooks no Boleto Simples aqui](https://api.boletosimples.com.br/webhooks/).
