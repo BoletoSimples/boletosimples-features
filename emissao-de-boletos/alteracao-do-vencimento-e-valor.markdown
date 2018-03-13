@@ -6,9 +6,9 @@ position: 2
 
 Depois de gerado, você pode alterar um boleto sem dificuldades.
 
-É possível alterar, por exemplo, a data de vencimento dele:
+É possível alterar a **data de vencimento** e até mesmo o **valor **do boleto:
 
-![alterar vencimento-123894.JPG](/uploads/alterar%20vencimento-123894.JPG)
+![Alterar-boleto.JPG](/uploads/Alterar-boleto.JPG)
 
 As alterações serão enviadas ao banco automaticamente na sua próxima remessa.
 
