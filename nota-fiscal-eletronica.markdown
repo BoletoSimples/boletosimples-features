@@ -20,4 +20,4 @@ Assim fica fácil:
 
 Além disso, o eNotas cuida da comunicação com a sua prefeitura para você não perder tempo com a burocracia.
 
-Saiba mais sobre a integração do Boleto Simples com o eNotas [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001029333-Como-gerar-nota-fiscal-para-boleto-registrado-com-Boleto-Simples-e-eNotas).
+Saiba mais sobre [a integração do Boleto Simples com o eNotas.](https://suporte.boletosimples.com.br/article/s83av903c6-como-gerar-nota-fiscal-para-boleto-registrado-com-boleto-simples-e-e-notas)
