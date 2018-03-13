@@ -78,10 +78,9 @@ Você pode configurar a sua conta do Boleto Simples para receber alertas da plat
 
 * Mantenha-se informado sem lotar a sua caixa de entrada com avisos não urgentes.
 
-Saiba mais sobre a configuração de emails de alerta [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001378453-Como-receber-Alertas-por-email).
-
 As mensagens enviadas para o seu email serão assim:
 
 ![alertas.jpg](/uploads/alertas.jpg)
 
-O Boleto Simples garante a você maior controle sobre o que acontece com o seu negócio  e agilidade na tomada de decisões estratégicas.
+O Boleto Simples garante a você maior controle sobre o que acontece com o seu negócio e agilidade na tomada de decisões estratégicas.\
+Saiba mais sobre a [configuração de emails de alerta](https://suporte.boletosimples.com.br/article/pb6313sxmd-como-receber-alertas-por-email).
