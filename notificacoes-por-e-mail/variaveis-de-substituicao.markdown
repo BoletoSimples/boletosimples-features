@@ -18,4 +18,4 @@ Você também pode incluir nas mensagens outros dados importantes, como o númer
 
 Personalize seu email como quiser, sem escrever uma linha de código!
 
-Para saber mais sobre como usar variáveis de subtituição, é só clicar [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001534733-Como-usar-vari%C3%A1veis-nos-seus-emails-do-Boleto-Simples).
+[Saiba mais sobre como usar variáveis de substituição](https://suporte.boletosimples.com.br/article/qmk5bs9fi6-como-usar-variaveis-nos-seus-emails-do-boleto-simples).
