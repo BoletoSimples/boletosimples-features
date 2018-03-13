@@ -18,4 +18,4 @@ Os email enviados com o template padrão ficam assim:
 
 No Boleto Simples você encontra a praticidade nas configurações básicas e possibilidades ilimitadas nas configurações avançadas.\
 \
-Para saber mais sobre a configuração de templates de email, [clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001634353-Posso-configurar-Templates-de-email-no-Boleto-Simples-).
+[Para saber mais sobre a configuração de templates de email, clique aqui](https://suporte.boletosimples.com.br/article/uvh1jhyh8x-posso-configurar-templates-de-email-no-boleto-simples).
