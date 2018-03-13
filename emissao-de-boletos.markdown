@@ -47,7 +47,7 @@ Com o Boleto Simples, você se livra dos sistemas complexos dos bancos e consegu
 Para deixar tudo ainda mais simples, é possível criar e usar templates com as informações mais usadas nas suas vendas. Depois, é só acompanhar o status do pagamento e você vai receber o valor automaticamente na sua conta.
 
 \
-[Clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001006013-Como-emitir-um-boleto-registrado) para saber mais sobre como emitir boletos no Boleto Simples.
+Veja mais sobre [como emitir boletos no Boleto Simples](https://suporte.boletosimples.com.br/article/61bbxt99m0-como-emitir-um-boleto-registrado).
 
 ## Boleto Fatura
 
