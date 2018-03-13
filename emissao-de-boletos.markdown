@@ -47,7 +47,7 @@ Com o Boleto Simples, você se livra dos sistemas complexos dos bancos e consegu
 Para deixar tudo ainda mais simples, é possível criar e usar templates com as informações mais usadas nas suas vendas. Depois, é só acompanhar o status do pagamento e você vai receber o valor automaticamente na sua conta.
 
 \
-[Clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001006013-Como-emitir-um-boleto-registrado) para saber mais sobre como emitir boletos no Boleto Simples.
+Veja mais sobre [como emitir boletos no Boleto Simples](https://suporte.boletosimples.com.br/article/61bbxt99m0-como-emitir-um-boleto-registrado).
 
 ## Boleto Fatura
 
@@ -57,7 +57,7 @@ O Boleto Simples permite a emissão de boletos no formato de fatura, usados para
 
 Personalize as informações que serão incluídas no demonstrativo usando **tags HTML e Markdown**. O Markdown é uma das linguagens de marcação leves mais populares atualmente, permitindo editar o texto inserindo negrito, itálico, links e títulos.
 
-Assim, a formatação fica personalizada para as necessidades do seu negócio! Saiba mais sobre a emissão de boletos fatura [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115000584774-Como-criar-um-boleto-fatura-no-Boleto-Simples).
+Assim, a formatação fica personalizada para as necessidades do seu negócio! Saiba mais sobre a [emissão de boletos fatura aqui](https://suporte.boletosimples.com.br/article/dgrm93675k-como-criar-um-boleto-fatura-no-boleto-simples).
 
 ## Carnê
 
@@ -73,7 +73,7 @@ As principais vantagens de gerar carnês no Boleto Simples são:
 
 * **Tudo sob controle:** você acompanha pela própria plataforma a confirmação e a data dos pagamentos realizados.
 
-Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de vendas de valores elevados para clientes que não possuem cartão de crédito. Saiba mais [aqui](http://boletosimples-features.siteleaf.net/cobranca-parcelada-carnes/).
+Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de vendas de valores elevados para clientes que não possuem cartão de crédito. [Saiba mais sobre cobrança parcelada aqui.](http://boletosimples-features.siteleaf.net/cobranca-parcelada-carnes/)
 
 ## Assinatura
 
@@ -81,4 +81,4 @@ Se o seu serviço ou produto requer uma cobrança recorrente, no Boleto Simples 
 
 ![assinaturas.jpg](/uploads/assinaturas.jpg)
 
-O seu cliente vai receber cada boleto por email no prazo **prévio ao vencimento** da cobrança que você determinar. Saiba mais sobre assinaturas [aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
+O seu cliente vai receber cada boleto por email no prazo **prévio ao vencimento** da cobrança que você determinar. [Saiba mais sobre assinaturas aqui](http://boletosimples-features.siteleaf.net/cobranca-recorrente-slash-assinaturas/).
