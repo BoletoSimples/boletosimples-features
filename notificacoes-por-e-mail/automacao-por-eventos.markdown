@@ -24,4 +24,4 @@ Além desses, você também pode configurar automações por eventos de integra�
 
 Determine quais eventos são úteis para a sua gestão do negócio e crie um email para cada um deles!
 
-Quer saber mais sobre automação de emails por eventos? [Clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/222210927-Como-enviar-notifica%C3%A7%C3%B5es-autom%C3%A1ticas-via-email).
+[Quer saber mais sobre automação de emails por eventos? Clique aqui](https://suporte.boletosimples.com.br/article/cyq0hd70db-como-enviar-notificacoes-automaticas-via-email).
