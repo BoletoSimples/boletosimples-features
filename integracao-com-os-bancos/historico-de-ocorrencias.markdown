@@ -16,4 +16,4 @@ Aqui, é possível visualizar e excluir eventos que ainda não foram enviados ao
 ![tela de pendencias.JPG](/uploads/tela%20de%20pendencias.JPG)
 
 Você pode, por exemplo, cancelar o registro de um boleto gerado errado antes de ele ser enviado na remessa.
-Saiba mais sobre a Tela de Pendências [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001447993--Tela-de-pend%C3%AAncias-acompanhe-ou-cancele-os-eventos-que-entrar%C3%A3o-na-pr%C3%B3xima-remessa-).
+[Saiba mais sobre a Tela de Pendências aqui](https://suporte.boletosimples.com.br/article/1wxaudyi1q-tela-de-pendencias-acompanhe-ou-cancele-os-eventos-que-entrarao-na-proxima-remessa).
