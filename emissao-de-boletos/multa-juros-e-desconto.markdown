@@ -28,5 +28,4 @@ Você pode oferecer um valor fixo de desconto ou um desconto percentual com base
 
 ![desconto.JPG](/uploads/desconto.JPG)
 
-Com todas as opções de configurações disponíveis no Boleto Simples, você pode definir juros, multas e descontos da forma mais vantajosa para o seu negócio e seus clientes.
-Saiba mais sobre as diferentes configurações possíveis [clicando aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115004539654-Como-configurar-valores-de-multa-juros-e-desconto-no-boleto-).
+Com todas as opções de configurações disponíveis no Boleto Simples, saiba como [definir juros, multas e descontos](https://suporte.boletosimples.com.br/article/ys6ikb50x4-como-configurar-valores-de-multa-juros-e-desconto-no-boleto) da forma mais vantajosa para o seu negócio e seus clientes.
