@@ -57,7 +57,7 @@ O Boleto Simples permite a emissão de boletos no formato de fatura, usados para
 
 Personalize as informações que serão incluídas no demonstrativo usando **tags HTML e Markdown**. O Markdown é uma das linguagens de marcação leves mais populares atualmente, permitindo editar o texto inserindo negrito, itálico, links e títulos.
 
-Assim, a formatação fica personalizada para as necessidades do seu negócio! Saiba mais sobre a emissão de boletos fatura [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115000584774-Como-criar-um-boleto-fatura-no-Boleto-Simples).
+Assim, a formatação fica personalizada para as necessidades do seu negócio! Saiba mais sobre a [emissão de boletos fatura aqui](https://suporte.boletosimples.com.br/article/dgrm93675k-como-criar-um-boleto-fatura-no-boleto-simples).
 
 ## Carnê
 
