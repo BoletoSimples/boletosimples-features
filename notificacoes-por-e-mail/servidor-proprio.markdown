@@ -18,4 +18,4 @@ Configurando o seu servidor de email você:
 
 Além disso, o seu cliente saberá que o email está sendo enviado por você e isso aumenta a **confiança** na comunicação.
 
-Saiba mais sobre como configurar seu email no Boleto Simples [clicando aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/222212287-Como-configurar-seu-email-no-Boleto-Simples-).
+Saiba mais sobre [como configurar seu email no Boleto Simples clicando aqui.](https://suporte.boletosimples.com.br/article/tzjklxlw5c-como-configurar-seu-email-no-boleto-simples)
