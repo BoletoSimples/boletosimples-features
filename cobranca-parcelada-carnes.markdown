@@ -26,4 +26,4 @@ As principais vantagens de gerar carnês no Boleto Simples são:
 
 * **Tudo sob controle:** você acompanha pela própria plataforma a confirmação e a data dos pagamentos realizados.
 
-Quer saber mais? [Clique aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/115001009414-Como-gerar-um-Carn%C3%AA) e veja como é fácil gerar carnês.
+Quer saber mais? [Clique aqui e veja como é fácil gerar carnês](https://suporte.boletosimples.com.br/article/w7hd2rzb80-como-gerar-um-carne).
