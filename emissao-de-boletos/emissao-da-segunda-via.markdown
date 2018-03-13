@@ -8,6 +8,6 @@ O Boleto Simples faz o **cálculo automático de juros e multa** quando uma segu
 
 Além disso, você pode **evitar a emissão de uma segunda via** através da alteração da data de vencimento do boleto:
 
-![alterar vencimento-7c0aa8.JPG](/uploads/alterar%20vencimento-7c0aa8.JPG)
+![Alterar-boleto-d6808d.JPG](/uploads/Alterar-boleto-d6808d.JPG)
 
 Com esse recurso, você evita criar um novo boleto e **economiza nas taxas** pagas ao banco.
