@@ -16,4 +16,4 @@ Como Boleto Simples o registro dos boletos é:
 
 * Seguro
 
-Assim, você não corre o risco de enviar o boleto para um cliente e ele não conseguir pagar porque ainda não está registrado no banco. Saiba mais sobre como utilizar webservices do seu banco [aqui](https://boletosimples.zendesk.com/hc/pt-br/articles/360000855973-Conex%C3%A3o-online-com-o-banco-atrav%C3%A9s-de-Webservice).
+Assim, você não corre o risco de enviar o boleto para um cliente e ele não conseguir pagar porque ainda não está registrado no banco. Saiba mais sobre [como utilizar webservices do seu banco.](https://suporte.boletosimples.com.br/article/8udp3swan1-conexao-online-com-o-banco-atraves-de-webservice)
