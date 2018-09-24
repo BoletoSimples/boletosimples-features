@@ -27,3 +27,5 @@ permalink: pretty
 plugins:
 - jekyll-feed
 - jekyll-sitemap
+jekyll-sitemap:
+- 
