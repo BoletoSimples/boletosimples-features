@@ -5,11 +5,11 @@ date: 2018-12-04 16:08:00 -02:00
 
 ![boleto_simples-nfe_io.png](/uploads/boleto_simples-nfe_io.png)
 
-A SharpSpring é uma ferramenta completa para automatizar o marketing da sua empresa aumentar sua conversão de vendas. Você pode integrar a sua conta Boleto Simples com a  SharpSpring, e tornar seu fluxo mais completo e automático.
+A SharpSpring é uma ferramenta completa para automatizar o marketing da sua empresa e aumentar sua conversão. Através do [Zapier](https://zapier.com/apps/sharpspring/integrations/boleto-simples), você criar automatizações entre o Boleto Simples e a SharpSpring, e tornar seu fluxo mais completo e automático.
 
-É possível criar várias automatizações, entre elas dois exemplo bem úteis abaixo:
+Acessando o Zapier, você consegue criar várias automatizações entre as duas aplicações, como, por exemplo:
 
-* Automatizar os e-mails de compra e cobrança. Com isso você pode acompanhar o engajamento dos clientes com os e-mails recebidos, recebendo todas as estatísticas referente a estes envios, além de perder menos pagamentos devido aos e-mails de cobrança; 
+* **Automatizar os e-mails de compra e cobrança**: Com isso você pode acompanhar o engajamento dos clientes com os e-mails recebidos, recebendo todas as estatísticas referente a estes envios, além de perder menos pagamentos devido aos e-mails de cobrança; 
 
 
 ![kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.PNG](/uploads/kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.PNG)
