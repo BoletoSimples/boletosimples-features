@@ -15,6 +15,6 @@ A SharpSpring é uma ferramenta completa para automatizar o marketing da sua emp
 
 * Quando um boleto é sinalizado como pago no Boleto Simples, atualize automaticamente uma oportunidade no SharpSpring, assim você consegue gerenciar tudo em um painel.
 
-![aaaaaf.PNG](/uploads/aaaaaf.PNG)
+![hahahahaha-bf9c80.PNG](/uploads/hahahahaha-bf9c80.PNG)
 
 [Veja mais automatizações que você pode criar e mais informações sobre a integração.](https://zapier.com/apps/sharpspring/integrations/boleto-simples)
