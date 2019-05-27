@@ -308,7 +308,7 @@ header#main-header {
   header#main-header .dropdown-trigger > a {
     cursor: pointer; }
     header#main-header .dropdown-trigger > a:after {
-      background: url(http://localhost:4567/images/menu/arrow-down.svg);
+      background: url(/img/menu/arrow-down.svg);
       background-size: 12px 15px;
       content: " ";
       display: inline-block;
