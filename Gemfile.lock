@@ -236,11 +236,12 @@ PLATFORMS
   x86_64-darwin-15
 
 DEPENDENCIES
+  bundler (~> 2.0, >= 2.0.1)
   foreman
   github-pages
 
 RUBY VERSION
-   ruby 2.4.2p198
+   ruby 2.6.2p47
 
 BUNDLED WITH
-   1.16.1
+   2.0.1
