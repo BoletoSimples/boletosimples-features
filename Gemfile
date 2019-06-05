@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
 ruby '2.4.3'
+source 'https://rubygems.org'
 
 gem 'github-pages'
 
