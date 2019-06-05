@@ -1,5 +1,5 @@
+ruby '2.6.2'
 source 'https://rubygems.org'
-ruby '2.4.2'
 
 gem 'github-pages'
 
