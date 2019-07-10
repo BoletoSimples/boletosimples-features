@@ -39,6 +39,7 @@
   <link href="/css/header-footer.css" rel="stylesheet">
   <link href="/css/style.css" rel="stylesheet">
   <link href="/css/github.css" rel="stylesheet">
+  {% include tracking/gtag_head.html %}
 
   <!-- Favicon -->
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
@@ -121,6 +122,9 @@
   ga('send', 'pageview');
 
 </script>
+
+{% include tracking/gtag_body.html %}
+
 <!-- Start of LiveChat (www.livechatinc.com) code -->
 <script>
   window.__lc = window.__lc || {};
