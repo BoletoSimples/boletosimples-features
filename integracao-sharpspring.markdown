@@ -6,7 +6,7 @@ position: 15
 
 ![boleto_simples-nfe_io.png](/uploads/boleto_simples-nfe_io.png)
 
-A SharpSpring é uma provedora altamente valorizada de [automação de marketing em nuvem](https://sharpspring.com/marketing-automation/.) com alto custo benefício, a nivel global. Você pode integrar a sua conta do Boleto Simples com a SharpSpring através do [Zapier](https://suporte.boletosimples.com.br/article/wgef8wyc53-quais-as-diferen-as-entre-os-registros-autom-ticos-atrav-s-de-van-e-webservice), e tornar seu fluxo de vendas mais completo e automático.
+A SharpSpring é uma provedora altamente valorizada de [automação de marketing em nuvem](https://sharpspring.com/marketing-automation/.) com alto custo benefício, a nível global. Você pode integrar a sua conta do Boleto Simples com a SharpSpring através do [Zapier](https://suporte.boletosimples.com.br/article/wgef8wyc53-quais-as-diferen-as-entre-os-registros-autom-ticos-atrav-s-de-van-e-webservice), e tornar seu fluxo de vendas mais completo e automático.
 
 É possível criar várias automatizações. Abaixo listamos dois exemplos:
 
