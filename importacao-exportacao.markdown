@@ -23,7 +23,7 @@ Para cada uma dessas ações, você pode escolher diferentes formatos de arquivo
 
 Os recursos de exportação te ajudam a aproveitar as informações do Boleto Simples em outros sistemas, de forma prática e simples. E importar dados também é fácil!
 
-Para a importação de sua base de clientes, você só precisa ter as informações reunidas em um **arquivo CSV**. O mesmo pode ser feito com as assinaturas que você já tiver criado anteriormente.
+Para a importação de sua base de clientes, por exemplo, você só precisa ter as informações reunidas em um **arquivo CSV**. O mesmo pode ser feito com boletos, carnês ou assinaturas que você já tiver criado anteriormente.
 
 ![importação.JPG](/uploads/importa%C3%A7%C3%A3o.JPG)
 
