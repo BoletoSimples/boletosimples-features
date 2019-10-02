@@ -12,7 +12,7 @@ O Boleto Simples garante a você:
 
 * **Agilidade no recebimento:** sem intermediador, você recebe o dinheiro diretamente na sua conta após a compensação, favorecendo seu fluxo de caixa.
 
-* **Segurança em todo o processo:** seu dinheiro não passa pela conta de terceiros e os boletos possuem uma malha de segurança exclusiva que impede adulterações.
+* **Segurança em todo o processo:** seu dinheiro não passa pela conta de terceiros e os boletos possuem uma malha de segurança exclusiva que reduz a possibilidade de adulterações.
 
 * **Economia de tempo e dinheiro:** você emite, envia e gerencia boletos de forma simples e intuitiva, sem pagar nenhum percentual em cima dos valores deles.
 

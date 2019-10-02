@@ -23,7 +23,7 @@ Para cada uma dessas ações, você pode escolher diferentes formatos de arquivo
 
 Os recursos de exportação te ajudam a aproveitar as informações do Boleto Simples em outros sistemas, de forma prática e simples. E importar dados também é fácil!
 
-Para a importação de sua base de clientes, você só precisa ter as informações reunidas em um **arquivo CSV**. O mesmo pode ser feito com as assinaturas que você já tiver criado anteriormente.
+Para a importação de sua base de clientes, por exemplo, você só precisa ter as informações reunidas em um **arquivo CSV**. O mesmo pode ser feito com boletos, carnês ou assinaturas que você já tiver criado anteriormente.
 
 ![importação.JPG](/uploads/importa%C3%A7%C3%A3o.JPG)
 
@@ -31,7 +31,7 @@ A importação livra você do trabalho de incluir cada registro manualmente no B
 
 ### Importação de boletos via arquivo remessa
 
-Você pode usar o arquivo remessa para importar boletos que foram gerados em outro sistema. Assim,  o Boleto Simples vai hospedar os boletos criados e você pode aproveitar todas as outras vantagens da plataforma.
+Você pode usar o arquivo remessa para importar boletos que foram gerados em outro sistema. Assim,  o Boleto Simples vai hospedar os boletos criados e você pode aproveitar todas as outras vantagens da plataforma. [Saiba mais sobre como fazer a importação por remessa aqui.](https://suporte.boletosimples.com.br/article/mu3bwa9lf4-posso-importar-boletos-para-o-boleto-simples-atraves-de-arquivos-remessa)
 
 ![importacao remessa.JPG](/uploads/importacao%20remessa.JPG)
 
@@ -47,4 +47,4 @@ Importe via arquivos CSV:
 
 * Boletos antigos
 
-Assim, você evita dor de cabeça e garante que todos os seus registros estejam no novo sistema. 
+Assim, você evita dor de cabeça e garante que todos os seus registros estejam no novo sistema.

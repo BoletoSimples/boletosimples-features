@@ -14,4 +14,4 @@ Pronto! Não precisa mais se preocupar com o registro dos boletos.
 
 Nós fazemos isso na hora para você, e o cliente já poderá fazer o pagamento assim que receber o boleto.
 
-Tudo online, de forma automática e muito segura.
+Tudo online, de forma automática e muito segura. Saiba mais sobre [como utilizar webservices do seu banco.](https://suporte.boletosimples.com.br/article/8udp3swan1-conexao-online-com-o-banco-atraves-de-webservice)

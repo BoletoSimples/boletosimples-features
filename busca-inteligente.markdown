@@ -16,7 +16,7 @@ O Boleto Simples conta com um sistema de **busca inteligente** que te ajuda a en
 
 ![busca por descrição.JPG](/uploads/busca%20por%20descri%C3%A7%C3%A3o.JPG)
 
-* Busca pelo **email do cliente**:\
+* Busca pelo **email do cliente**:
 
 ![busca pelo email.JPG](/uploads/busca%20pelo%20email.JPG)
 

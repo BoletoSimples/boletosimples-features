@@ -20,6 +20,6 @@ Também é fácil configurar notificações para você receber um email toda vez
 
 Além de o pagamento ser lido automaticamente do arquivo remessa, ele pode ser informado manualmente. Você mesmo pode marcar um boleto como pago:
 
-![marcar como pago.JPG](/uploads/marcar%20como%20pago.JPG)
+![pago beneficiário.PNG](/uploads/pago%20benefici%C3%A1rio.PNG)
 
-Quando o boleto é marcado como pago manualmente, o Boleto Simples gera um comando de baixa de título que será enviado na próxima remessa.
+Caso você esteja recebendo o pagamento por transferência ou em espécie, marque a opção **Pago diretamente ao beneficiário**, e o Boleto Simples gera um comando de baixa de título que será enviado na próxima remessa.

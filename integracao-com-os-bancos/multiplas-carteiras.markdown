@@ -12,4 +12,4 @@ Assim, você pode aproveitar as diferentes vantagens oferecidas por cada banco n
 
 Além disso, em uma única conta é possível **gerenciar carteiras de seus clientes**. Isso é útil, por exemplo, se o seu negócio for um software de gestão que irá integrar com o Boleto Simples, ou então uma empresa de serviço de cobrança.
 
-Na hora de emitir um Boleto, é só escolher qual carteira utilizar. Você pode adotar valores padrão para cada carteira de cobrança editando suas [Configurações Avançadas](http://boletosimples-features.siteleaf.net/configuracoe-avancadas/) e determinar uma Carteira Padrão que você utilizar com mais frequência.
+Na hora de emitir um Boleto, é só escolher qual carteira utilizar. Você pode adotar valores padrão para cada carteira de cobrança editando suas [Configurações Avançadas](http://boletosimples-features.siteleaf.net/configuracoe-avancadas/) e determinar uma Carteira Padrão que você utiliza com mais frequência.
