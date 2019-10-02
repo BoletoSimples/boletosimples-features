@@ -8,6 +8,6 @@ O Boleto Simples está integrado com os bancos para fazer automaticamente o regi
 
 A integração se dá tanto via troca de arquivos como com os novos webservices:
 
-* **Troca de arquivos:** através do envio das remessas e recebimento dos arquivos de retorno, o Boleto Simples informa e recebe informações do banco sobre o pagamento dos boletos emitidos
+* **Troca de arquivos:** através do envio das remessas e recebimento dos arquivos de retorno, o Boleto Simples informa e recebe informações do banco sobre os boletos emitidos, como o pagamento.
 
 * **Novos webservices:** o Boleto Simples se integra com os bancos via API para registrar online e instantaneamente os boletos emitidos, assim o cliente pode fazer o pagamento logo que receber o boleto.
