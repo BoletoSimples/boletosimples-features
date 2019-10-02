@@ -20,7 +20,7 @@ O Boleto Simples permite criar notificações por email quando determinados even
 
 * **Retorno processado:** seja notificado quando um retorno for processado.
 
-Além desses, você também pode configurar automações por eventos de integrações. Um exemplo é o evento **Nota Fiscal Gerada do Enotas**. Com ele, será enviado um email do boleto junto com a nota fiscal para o cliente.
+Além desses, você também pode configurar automações por eventos de integrações. Um exemplo é o evento **Nota Fiscal Gerada do eNotas**. Com ele, será enviado um email do boleto junto com a nota fiscal para o cliente.
 
 Determine quais eventos são úteis para a sua gestão do negócio e crie um email para cada um deles!
 
