@@ -8,7 +8,7 @@ Além de configurar emails automáticos para o envio dos boletos, você também 
 
 É só acessar o boleto e escolher essa opção de envio:
 
-![enviar por whats.jpg](/uploads/enviar%20por%20whats.jpg)
+![whatsapp comp.png](/uploads/whatsapp%20comp.png)
 
 Nas configurações avançadas da sua conta, você pode definir a mensagem padrão usando **variáveis** como o nome do cliente, o vencimento e o valor do boleto:
 
