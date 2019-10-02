@@ -4,7 +4,7 @@ date: 2018-01-30 17:44:00 -02:00
 position: 12
 ---
 
-Ao gerar um boleto, o Boleto já gera também automaticamente o **envelope para envio pelos Correios**, no formato de imagem e PDF.
+Ao gerar um boleto, o Boleto Simples já gera também automaticamente o **envelope para envio pelos Correios**, no formato de imagem e PDF.
 
 Veja abaixo o exemplo de um envelope gerado com todas as **informações de remetente e destinatário**:
 
