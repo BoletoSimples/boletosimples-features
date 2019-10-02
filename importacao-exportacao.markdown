@@ -31,7 +31,7 @@ A importação livra você do trabalho de incluir cada registro manualmente no B
 
 ### Importação de boletos via arquivo remessa
 
-Você pode usar o arquivo remessa para importar boletos que foram gerados em outro sistema. Assim,  o Boleto Simples vai hospedar os boletos criados e você pode aproveitar todas as outras vantagens da plataforma.
+Você pode usar o arquivo remessa para importar boletos que foram gerados em outro sistema. Assim,  o Boleto Simples vai hospedar os boletos criados e você pode aproveitar todas as outras vantagens da plataforma. [Saiba mais sobre como fazer a importação por remessa aqui.](https://suporte.boletosimples.com.br/article/mu3bwa9lf4-posso-importar-boletos-para-o-boleto-simples-atraves-de-arquivos-remessa)
 
 ![importacao remessa.JPG](/uploads/importacao%20remessa.JPG)
 
@@ -47,4 +47,4 @@ Importe via arquivos CSV:
 
 * Boletos antigos
 
-Assim, você evita dor de cabeça e garante que todos os seus registros estejam no novo sistema. 
+Assim, você evita dor de cabeça e garante que todos os seus registros estejam no novo sistema.
