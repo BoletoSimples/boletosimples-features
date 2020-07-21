@@ -1,0 +1,34 @@
+{% capture html %}
+    {%- assign entries = site.html_pages | sort: "position" -%}
+    {% for entry in entries %}
+      {%- capture slug    -%}{{ entry.url | split: "/"   | last                       }}{%- endcapture -%}
+      {%- capture current -%}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{%- endcapture -%}
+      {% if entry.url == "/" and include.context == "/" %}
+        <li class="{% if page.url == "/" %}active{% endif %}">
+          <a class="main-link" href="{{ site.baseurl }}/">{{ entry.title }}</a>
+          {% if entry.anchors %}
+            <ul class="subnav">
+              {% for anchor in entry.anchors %}
+                <li><a href="{{entry.url}}#{{anchor[0]}}">{{anchor[1]}}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endif %}
+      {% if current == include.context %}
+        <li class="{% if page.url == entry.url %}active{% endif %}">
+          <a class="main-link {% if page.url == entry.url %}active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          {% if entry.anchors %}
+            <ul class="subnav">
+              {% for anchor in entry.anchors %}
+                <li><a href="{{entry.url}}#{{anchor[0]}}">{{anchor[1]}}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+          <ul class="subnav">
+            {% include navigation.html context=entry.url %}
+          </ul>
+        </li>
+      {% endif %}
+    {% endfor %}
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
