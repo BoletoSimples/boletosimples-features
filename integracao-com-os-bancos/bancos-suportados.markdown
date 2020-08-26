@@ -4,11 +4,13 @@ date: 2018-01-30 17:52:00 -02:00
 position: 1
 ---
 
-Com a [Nova Plataforma de Cobrança](http://boletosimples-features.siteleaf.net/suporte-a-nova-plataforma-de-cobranca/), o registro dos boletos passa a ser feito online, através do envio de arquivos de remessa gerados no Boleto Simples para o seu internet banking. Também há a opção da integração do Boleto Simples com o sistema do banco, que possibilita o registro imediato assim que um boleto é emitido.
+Com a [Nova Plataforma de Cobrança](https://features.boletosimples.com.br/suporte-a-nova-plataforma-de-cobranca/), o registro dos boletos passa a ser feito online, através do envio de arquivos de remessa gerados no Boleto Simples para o seu internet banking. Também há a opção da integração do Boleto Simples com o sistema do banco, que possibilita o registro imediato assim que um boleto é emitido.
 
 Os principais bancos do país já estão integrados ao Boleto Simples:
 
 * Ailos
+
+* Banco ABC
 
 * Banco de Brasília (BRB)
 
@@ -17,6 +19,8 @@ Os principais bancos do país já estão integrados ao Boleto Simples:
 * Banco do Nordeste
 
 * Banco Safra
+
+* Banco Industrial do Brasil
 
 * Banestes
 
@@ -39,6 +43,8 @@ Os principais bancos do país já estão integrados ao Boleto Simples:
 * Daycoval
 
 * Itaú
+
+* Mercantil do Brasil
 
 * Santander
 
