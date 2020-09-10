@@ -1,5 +1,5 @@
 ---
-title: Suporte à Nova Plataforma de Cobrança
+title: Nova Plataforma de Cobrança
 date: 2018-03-03 16:33:00 -03:00
 position: 22
 ---
