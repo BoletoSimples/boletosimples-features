@@ -9,7 +9,7 @@ Acessando esse portal, o seu cliente digitará o CPF ou CNPJ dele.
 
 ![portal-do-cliente-boleto-simples.png](/uploads/portal-do-cliente-boleto-simples.png)
 
-A partir disso, ele terá acesso a todos os boletos já gerados para o CPF ou CNPJ corresponder.
+A partir disso, ele terá acesso a todos os boletos já gerados para o CPF ou CNPJ correspondente.
 
 ![portal-do-cliente-02-boleto-simples.png](/uploads/portal-do-cliente-02-boleto-simples.png)
 
