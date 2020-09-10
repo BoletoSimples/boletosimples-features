@@ -14,4 +14,4 @@ A partir disso, ele terá acesso a todos os boletos já gerados para o CPF ou CN
 
 ![portal-do-cliente-02-boleto-simples.png](/uploads/portal-do-cliente-02-boleto-simples.png)
 
-O link desse portal terá o nome da sua empresa e você poderá compartilha-lo da forma que desejar (e-mail, WhatsApp, SMS) e até inclui-lo em seu site.
+O link desse portal terá o nome da sua empresa e você poderá compartilhá-lo da forma que desejar (e-mail, WhatsApp, SMS) e até incluí-lo em seu site.
