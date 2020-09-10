@@ -1,7 +1,7 @@
 ---
 title: Notificações por e-mail
 date: 2018-01-30 17:54:00 -02:00
-position: 4
+position: 6
 ---
 
 Com o Boleto Simples, você pode automatizar o envio de **notificações por email** para os seus clientes e até para você mesmo.
