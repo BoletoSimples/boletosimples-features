@@ -1,7 +1,7 @@
 ---
 title: Relacionamento com clientes (CRM)
 date: 2020-09-10 15:52:00 -03:00
-position: 2
+position: 4
 ---
 
 Através do Boleto Simples, você consegue cadastrar os seus clientes tornando o relacionamento com ele muito mais prático.

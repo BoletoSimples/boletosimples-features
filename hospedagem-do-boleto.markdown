@@ -1,7 +1,7 @@
 ---
 title: Hospedagem do boleto
 date: 2018-01-30 15:13:00 -02:00
-position: 3
+position: 2
 ---
 
 O Boleto Simples adota os mais altos padrões de segurança no que diz respeito à hospedagem dos boletos e o envio deles aos clientes.
