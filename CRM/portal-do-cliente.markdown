@@ -1,7 +1,7 @@
 ---
 title: Portal do cliente
 date: 2020-09-10 16:37:00 -03:00
-position: 5
+position: 0
 ---
 
 O Boleto Simples permite que a sua empresa tenha um portal para que os seus clientes acessem todos os boletos já emitidos através da nossa plataforma.
