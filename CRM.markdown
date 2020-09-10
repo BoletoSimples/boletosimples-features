@@ -1,5 +1,5 @@
 ---
-title: Relacionamento com clientes (CRM)
+title: Clientes (CRM)
 date: 2020-09-10 15:52:00 -03:00
 position: 4
 ---
