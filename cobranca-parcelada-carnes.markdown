@@ -1,7 +1,7 @@
 ---
 title: Cobrança parcelada/Carnês
 date: 2018-01-30 17:53:00 -02:00
-position: 6
+position: 7
 ---
 
 Para pagamentos parcelados, o Boleto Simples permite gerar boletos em layout de Carnê, como esse:

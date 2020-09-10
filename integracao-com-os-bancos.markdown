@@ -1,7 +1,7 @@
 ---
 title: Integração com os bancos
 date: 2018-01-30 17:48:00 -02:00
-position: 3
+position: 4
 ---
 
 O Boleto Simples está integrado com os bancos para fazer automaticamente o registro dos boletos emitidos, assim como a troca de informações sobre os títulos. Tudo de acordo com as regras da [Nova Plataforma de Cobrança](http://boletosimples-features.siteleaf.net/suporte-a-nova-plataforma-de-cobranca/).
