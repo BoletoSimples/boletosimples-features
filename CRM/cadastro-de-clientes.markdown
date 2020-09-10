@@ -1,7 +1,7 @@
 ---
 title: Cadastro de clientes
 date: 2018-01-30 17:53:00 -02:00
-position: 5
+position: 0
 ---
 
 Os seus clientes não precisam ter uma conta no Boleto Simples para aproveitar as vantagens da plataforma. Basta você cadastrar os dados básicos deles para emitir e enviar cobranças.
