@@ -37,10 +37,10 @@
     <meta name="msapplication-TileImage" content="/mstile-144x144.png?v=lkdpLO9Bk8">
     <meta name="theme-color" content="#ffffff">
     <!-- End of Favicon Tags -->
-
-    <link href="/css/header-footer.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/github.css" rel="stylesheet">
+    
+    {% asset header-footer.css %}
+    {% asset style.css %}
+    {% asset github.css %}
 
     <!-- Favicon -->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
@@ -76,12 +76,12 @@
         </div>
     </section>
     {% include footer.html %}
-    <script src="/js/jquery.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
+    {% asset jquery.min.js %}
+    {% asset bootstrap.min.js %}
     <script src="//cdn.jsdelivr.net/jquery.sidr/2.2.1/jquery.sidr.min.js"></script>
-    <script src="/js/highlight.pack.js"></script>
-    <script src="/js/header-footer.js"></script>
-    <script src="/js/main.js"></script>
+    {% asset highlight.pack.js %}
+    {% asset header-footer.js %}
+    {% asset main.js %}
     <script>
         $(document).ready(function() {
 
