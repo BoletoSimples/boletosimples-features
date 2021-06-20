@@ -16,4 +16,4 @@ Na remessa você por ver todos os comandos presentes nela:
 
 Se a **Conexão Online** com o banco estiver ativada, não precisa se preocupar em fazer download porque o envio das remessas será feito de forma totalmente automatizada.
 
-Saiba mais sobre os [recursos de trocas de arquivos](http://boletosimples-features.siteleaf.net/integracao-com-os-bancos/troca-de-arquivos/)!
+Saiba mais sobre os [recursos de trocas de arquivos](https://features.boletosimples.com.br/integracao-com-os-bancos/troca-de-arquivos/)!
