@@ -1,7 +1,7 @@
-@import url("normalize.css");
-@import url("sidr.css");
-@import url("bootstrap.min.css");
-@import url("fontface.css");
+@import "normalize.css";
+@import "sidr.css";
+@import "./bootstrap.min.css";
+@import "fontface.css";
 
 /* Main */
 
@@ -462,7 +462,7 @@ Media Queries for Smartphones.
     margin: -1px -10px 0 -10px;
     height: 34px;
     line-height: 34px;
-    border: 1px solid $gray;
+    border: 1px solid gray;
     background: #f8f8f8;
   }
 
