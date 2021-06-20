@@ -10,11 +10,11 @@ Você pode [importar e exportar](https://features.boletosimples.com.br/importaca
 
 Com isso, o Boleto Simples também te ajuda no **gerenciamento de clientes**, centralizando todas as informações importantes sobre eles em um mesmo lugar.
 
-![clientes.JPG](/uploads/clientes.JPG)
+![clientes.JPG](/uploads/clientes.JPG){:loading="lazy"}
 
 No cadastro de cada cliente você terá um histórico de todas as cobranças emitidas para eles e a situação dos pagamentos.
 
-![cliente.JPG](/uploads/cliente.JPG)
+![cliente.JPG](/uploads/cliente.JPG){:loading="lazy"}
 
 Você ganha controle e visibilidade dos dados dos clientes!
 

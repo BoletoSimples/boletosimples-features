@@ -8,11 +8,11 @@ Para padronizar seus boletos e economizar ainda mais tempo ao emiti-los, você p
 
 É muito útil incluir frases padrão em campos comuns para todos os boletos, como Local de Pagamento e Instruções ao Caixa. Assim, você não vai precisar preenchê-los todas as vezes.
 
-![configurações avançadas.JPG](/uploads/configura%C3%A7%C3%B5es%20avan%C3%A7adas.JPG)
+![configurações avançadas.JPG](/uploads/configura%C3%A7%C3%B5es%20avan%C3%A7adas.JPG){:loading="lazy"}
 
 Você também pode definir os Juros e a Multa padrão nos seus boletos, além de possíveis descontos:
 
-![config avançadas 2.JPG](/uploads/config%20avan%C3%A7adas%202.JPG)
+![config avançadas 2.JPG](/uploads/config%20avan%C3%A7adas%202.JPG){:loading="lazy"}
 
 Essa configuração pode ser feita tanto no nível da **conta** como no nível da **carteira de cobrança**. 
 

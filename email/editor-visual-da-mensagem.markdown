@@ -6,7 +6,7 @@ position: 5
 
 No Boleto Simples é muito simples configurar a mensagem das suas notificações, graças ao **editor visual de email**:
 
-![editor visual-5dbe6a.JPG](/uploads/editor%20visual-5dbe6a.JPG)
+![editor visual-5dbe6a.JPG](/uploads/editor%20visual-5dbe6a.JPG){:loading="lazy"}
 
 É só escrever a sua mensagem e formatá-la usando as ferramentas de edição de texto.
 

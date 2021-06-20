@@ -8,11 +8,11 @@ Para tornar cada email de notificação mais informativo e pessoal, use as **var
 
 Com elas, o Boleto Simples vai inserir automaticamente no email informações como o nome do cliente, valor do boleto e data de vencimento.
 
-![variaveis.jpg](/uploads/variaveis.jpg)
+![variaveis.jpg](/uploads/variaveis.jpg){:loading="lazy"}
 
 Esse é um recurso poderoso, que usa um processador de templates que permite personalizar as variáveis, chamado Liquid.  Veja alguns exemplos de substituições:
 
-![variaveis substituicao.JPG](/uploads/variaveis%20substituicao.JPG)
+![variaveis substituicao.JPG](/uploads/variaveis%20substituicao.JPG){:loading="lazy"}
 
 Você também pode incluir nas mensagens outros dados importantes, como o número do documento, a parcela do carnê ou o período de assinatura. [Veja aqui a lista de todas as variáveis disponíveis](https://suporte.boletosimples.com.br/article/gzqu55ajrb-variaveis-que-podem-ser-usadas-nos-boletos-e-notificacoes).
 

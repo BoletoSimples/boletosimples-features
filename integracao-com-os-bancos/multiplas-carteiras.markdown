@@ -6,7 +6,7 @@ position: 0
 
 Se você possui mais de uma carteira de cobrança ativa, é possível registrar todas elas na sua conta do Boleto Simples:
 
-![carteiras-bd3d49.JPG](/uploads/carteiras-bd3d49.JPG)
+![carteiras-bd3d49.JPG](/uploads/carteiras-bd3d49.JPG){:loading="lazy"}
 
 Assim, você pode aproveitar as diferentes vantagens oferecidas por cada banco na emissão dos Boletos.
 

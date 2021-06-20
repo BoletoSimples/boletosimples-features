@@ -6,11 +6,11 @@ position: 10
 
 Sempre que emitir boletos no Boleto Simples, você pode gerar o **arquivo da remessa** em um clique:
 
-![gerar remessa.jpg](/uploads/gerar%20remessa.jpg)
+![gerar remessa.jpg](/uploads/gerar%20remessa.jpg){:loading="lazy"}
 
 Na remessa você por ver todos os comandos presentes nela:
 
-![remessa detalhes.JPG](/uploads/remessa%20detalhes.JPG)
+![remessa detalhes.JPG](/uploads/remessa%20detalhes.JPG){:loading="lazy"}
 
 É só clicar em **Download** para baixar o arquivo da remessa e depois fazer o upload dele para o seu Internet Banking.
 

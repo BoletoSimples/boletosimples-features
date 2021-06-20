@@ -8,7 +8,7 @@ O Boleto Simples faz a **leitura automática do arquivo de retorno** gerado pelo
 
 Para isso, é só selecionar o arquivo no seu computador e fazer o upload para a plataforma.
 
-![retorno.JPG](/uploads/retorno.JPG)
+![retorno.JPG](/uploads/retorno.JPG){:loading="lazy"}
 
 O Boleto Simples lê as informações do arquivo e atualiza automaticamente os status dos boletos na plataforma.
 

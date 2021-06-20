@@ -4,7 +4,7 @@ date: 2018-01-30 17:56:00 -02:00
 position: 19
 ---
 
-![webhooks.jpg](/uploads/webhooks.jpg)
+![webhooks.jpg](/uploads/webhooks.jpg){:loading="lazy"}
 
 Webhooks permitem que sistemas externos recebam notificações de todos os eventos que ocorrem no Boleto Simples.
 Ou seja, além de criar integrações via API, você também pode usar webhooks para **gerar notificações da plataforma em outros sistemas**.

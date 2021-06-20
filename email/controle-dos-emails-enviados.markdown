@@ -6,6 +6,6 @@ position: 3
 
 O Boleto Simples mantém um histórico atualizado com o registro de todos os emails enviados pela sua conta.
 
-![historico de emails.jpg](/uploads/historico%20de%20emails.jpg)
+![historico de emails.jpg](/uploads/historico%20de%20emails.jpg){:loading="lazy"}
 
 Aqui você pode ver se o email foi recebido ou se aconteceu algum erro, para então poder reenviá-lo.

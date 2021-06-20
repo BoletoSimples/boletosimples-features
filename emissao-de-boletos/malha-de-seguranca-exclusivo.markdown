@@ -6,7 +6,7 @@ position: 8
 
 O Boleto Simples desenvolveu uma **malha de segurança exclusiva** com o objetivo reduzir a possibilidade de adulteração dos boletos gerados pela plataforma.
 
-![malha-5dcd0a.JPG](/uploads/malha-5dcd0a.JPG)
+![malha-5dcd0a.JPG](/uploads/malha-5dcd0a.JPG){:loading="lazy"}
 
 A malha de segurança é uma imagem não uniforme que dificulta a alteração dos dados do boleto em editores de imagem.
 

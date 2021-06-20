@@ -10,11 +10,11 @@ Editando templates de email com conhecimentos básicos de HTML e CSS, você melh
 
 Para quem não tem familiaridade com HTML, existe um modelo padrão que já vem configurado na plataforma:
 
-![template html.JPG](/uploads/template%20html.JPG)
+![template html.JPG](/uploads/template%20html.JPG){:loading="lazy"}
 
 Os email enviados com o template padrão ficam assim:
 
-![template visualizar-58166f.JPG](/uploads/template%20visualizar-58166f.JPG)
+![template visualizar-58166f.JPG](/uploads/template%20visualizar-58166f.JPG){:loading="lazy"}
 
 No Boleto Simples você encontra a praticidade nas configurações básicas e possibilidades ilimitadas nas configurações avançadas.
 
