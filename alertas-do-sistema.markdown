@@ -9,7 +9,7 @@ anchors:
 
 O Boleto Simples tem um **sistema de Alertas** que notifica o usuário sobre eventos relevantes da sua conta.
 
-![alerta notificação.JPG](/uploads/alerta%20notifica%C3%A7%C3%A3o.JPG)
+![alerta notificação.JPG](/uploads/alerta%20notifica%C3%A7%C3%A3o.JPG){:loading="lazy"}
 
 Cada notificação de alerta tem uma cor que indica a sua gravidade, na escala: Info, Aviso e Crítico.
 
@@ -70,7 +70,7 @@ Esses são os eventos de diferentes severidades que podem gerar alertas no Bolet
 
 Você pode configurar a sua conta do Boleto Simples para receber alertas da plataforma no seu email. Assim, você não corre o risco de perder uma informação importante e pode atuar rapidamente quando necessário. É só acessar as Configurações Avançadas:
 
-![alertas configuras.JPG](/uploads/alertas%20configuras.JPG)
+![alertas configuras.JPG](/uploads/alertas%20configuras.JPG){:loading="lazy"}
 
 * Escolha o endereço de email onde quer receber os alertas.
 
@@ -80,7 +80,7 @@ Você pode configurar a sua conta do Boleto Simples para receber alertas da plat
 
 As mensagens enviadas para o seu email serão assim:
 
-![alertas.jpg](/uploads/alertas.jpg)
+![alertas.jpg](/uploads/alertas.jpg){:loading="lazy"}
 
 O Boleto Simples garante a você maior controle sobre o que acontece com o seu negócio e agilidade na tomada de decisões estratégicas.\
 Saiba mais sobre a [configuração de emails de alerta](https://suporte.boletosimples.com.br/article/pb6313sxmd-como-receber-alertas-por-email).

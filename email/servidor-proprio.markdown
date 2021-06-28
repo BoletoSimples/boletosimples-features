@@ -8,7 +8,7 @@ Você pode configurar o seu próprio servidor de email para fazer os envios de n
 
 Assim, os emails serão enviados pela plataforma com o remetente escolhido por você.
 
-![servidor.JPG](/uploads/servidor.JPG)
+![servidor.JPG](/uploads/servidor.JPG){:loading="lazy"}
 
 Configurando o seu servidor de email você:
 

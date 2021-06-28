@@ -8,7 +8,7 @@ O Boleto Simples faz a **leitura automática do arquivo de retorno** gerado pelo
 
 Para isso, é só selecionar o arquivo no seu computador e fazer o upload para a plataforma.
 
-![retorno.JPG](/uploads/retorno.JPG)
+![retorno.JPG](/uploads/retorno.JPG){:loading="lazy"}
 
 O Boleto Simples lê as informações do arquivo e atualiza automaticamente os status dos boletos na plataforma.
 
@@ -18,4 +18,4 @@ Se a **Conexão Online** com o banco estiver ativada, não precisa enviar o arqu
 
 O Boleto Simples faz a baixa automática de pagamento dos boletos que vierem como liquidados no retorno. Isso garante que as informações sobre os pagamentos estejam sempre corretas e em dia!
 
-Veja mais sobre a [troca de arquivos com os bancos](http://boletosimples-features.siteleaf.net/integracao-com-os-bancos/troca-de-arquivos/).
+Veja mais sobre a [troca de arquivos com os bancos](https://features.boletosimples.com.br/integracao-com-os-bancos/troca-de-arquivos/).

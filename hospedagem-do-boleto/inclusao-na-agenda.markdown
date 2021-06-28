@@ -8,11 +8,11 @@ Que tal ajudar as pessoas a não esquecerem de fazer o pagamento do boleto?
 
 Clicando no link do boleto, o seu cliente abrirá uma página como essa:
 
-![interface.JPG](/uploads/interface.JPG)
+![interface.JPG](/uploads/interface.JPG){:loading="lazy"}
 
 Ele poderá clicar em **Incluir na Agenda** para adicionar a data de vencimento ao seu calendário pessoal:
 
-![agenda-5f5539.JPG](/uploads/agenda-5f5539.JPG)
+![agenda-5f5539.JPG](/uploads/agenda-5f5539.JPG){:loading="lazy"}
 
 Essa é a melhor maneira de ajudá-lo a não esquecer de fazer o pagamento em dia!
 

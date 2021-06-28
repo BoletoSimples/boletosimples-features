@@ -8,7 +8,7 @@ position: 3
 
 Se aquele pagamento por algum motivo não deve mais acontecer ou se o boleto foi gerado com algum erro, é só localizá-lo na sua conta e clicar em **Cancelar**.
 
-![cancelamento-094fba.JPG](/uploads/cancelamento-094fba.JPG)
+![cancelamento-094fba.JPG](/uploads/cancelamento-094fba.JPG){:loading="lazy"}
 
 
 Se o boleto for cancelado antes de o comando de entrada de títulos entrar em uma remessa, esse comando será deletado e o boleto nem chegará a ser registrado, evitando esse custo desnecessário.

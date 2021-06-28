@@ -6,7 +6,7 @@ position: 4
 
 Você pode **evitar a emissão de uma segunda via** através da alteração da data de vencimento do boleto:
 
-![Alterar-boleto-d6808d.JPG](/uploads/Alterar-boleto-d6808d.JPG)
+![Alterar-boleto-d6808d.JPG](/uploads/Alterar-boleto-d6808d.JPG){:loading="lazy"}
 
 Com esse recurso, você evita criar um novo boleto e **economiza nas taxas** pagas ao banco.
 

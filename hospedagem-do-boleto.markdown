@@ -9,6 +9,6 @@ Os boletos sempre aparecem como imagem, justamente por uma questão de seguranç
 
 Você pode compartilhar o documento sempre que quiser, escolhendo o melhor modo de fazer isso:
 
-![compartilhamento do boleto.JPG](/uploads/compartilhamento%20do%20boleto.JPG)
+![compartilhamento do boleto.JPG](/uploads/compartilhamento%20do%20boleto.JPG){:loading="lazy"}
 
 Não precisa se preocupar em fazer o download e enviar o arquivo em anexo. É só clicar para copiar o link e até mesmo enviar diretamente pelo Whatsapp!

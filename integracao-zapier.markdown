@@ -4,7 +4,7 @@ date: 2018-01-30 18:04:00 -02:00
 position: 15
 ---
 
-![zapier.jpg](/uploads/zapier.jpg)
+![zapier.jpg](/uploads/zapier.jpg){:loading="lazy"}
 
 O **[Zapier](https://zapier.com/apps/boleto-simples/integrations)** é um serviço online para conectar aplicativos e automatizar tarefas. O Boleto Simples está no Zapier e isso quer dizer que você pode integrar com mais de 1000 aplicativos disponíveis!
 
