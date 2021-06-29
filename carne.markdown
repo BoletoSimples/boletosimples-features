@@ -6,17 +6,17 @@ position: 8
 
 Para pagamentos parcelados, o Boleto Simples permite gerar boletos em layout de Carnê, como esse:
 
-![carne-e50524.jpg](/uploads/carne-e50524.jpg)
+![carne-e50524.jpg](/uploads/carne-e50524.jpg){:loading="lazy"}
 
 Você define o valor, a quantidade de parcelas e o vencimento delas.
 
 Veja o exemplo de 3 parcelas de um carnê:
 
-![carne-3-parcelas.JPG](/uploads/carne-3-parcelas.JPG)
+![carne-3-parcelas.JPG](/uploads/carne-3-parcelas.JPG){:loading="lazy"}
 
 Os boletos são **gerados de uma única vez** e você pode acompanhar os status dos pagamentos pela própria plataforma!
 
-![carnê status.JPG](/uploads/carn%C3%AA%20status.JPG)
+![carnê status.JPG](/uploads/carn%C3%AA%20status.JPG){:loading="lazy"}
 
 As principais vantagens de gerar carnês no Boleto Simples são:
 

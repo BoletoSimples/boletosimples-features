@@ -4,7 +4,7 @@ date: 2018-01-30 17:58:00 -02:00
 position: 9
 ---
 
-![enotas.jpg](/uploads/enotas.jpg)
+![enotas.jpg](/uploads/enotas.jpg){:loading="lazy"}
 
 O Boleto Simples oferece uma integração com o **[eNotas](http://enotas.com.br/bs)**, que faz a emissão de notas fiscais eletrônicas de serviço e de produto (NFS-e e NF-e).
 

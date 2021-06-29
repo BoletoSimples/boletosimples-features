@@ -12,7 +12,7 @@ anchors:
 
 No Boleto Simples, tudo que você precisa para emitir boletos é ter uma carteira de cobrança ativa em seu banco. Com a carteira configurada, você pode gerar os boletos automaticamente.
 
-![emissao de boletos.JPG](/uploads/emissao%20de%20boletos.JPG)
+![emissao de boletos.JPG](/uploads/emissao%20de%20boletos.JPG){:loading="lazy"}{:loading="lazy"}
 
 É possível emitir:
 
@@ -34,7 +34,7 @@ Envie instantaneamente os boletos por email para seus clientes e acompanhe os pa
 
 O boleto de cobrança é o tipo de boleto mais comum: um título de cobrança que contém informações como o valor, a data de vencimento, quem deve pagar e para quem deve ser pago.
 
-![boleto de cobrança.JPG](/uploads/boleto%20de%20cobran%C3%A7a.JPG)
+![boleto de cobrança.JPG](/uploads/boleto%20de%20cobran%C3%A7a.JPG){:loading="lazy"}{:loading="lazy"}
 
 Com o Boleto Simples, você se livra dos sistemas complexos dos bancos e consegue gerar um boleto de cobrança em menos de dois minutos:
 
@@ -52,7 +52,7 @@ Veja mais sobre [como emitir boletos no Boleto Simples](https://suporte.boletosi
 
 O Boleto Simples permite a emissão de boletos no formato de fatura, usados para cobranças que exigem maior detalhamento sobre o produto adquirido ou o serviço prestado.
 
-![boleto fatura.JPG](/uploads/boleto%20fatura.JPG)
+![boleto fatura.JPG](/uploads/boleto%20fatura.JPG){:loading="lazy"}{:loading="lazy"}
 
 Personalize as informações que serão incluídas no demonstrativo usando **tags HTML e Markdown**. O Markdown é uma das linguagens de marcação leves mais populares atualmente, permitindo editar o texto inserindo negrito, itálico, links e títulos.
 
@@ -62,7 +62,7 @@ Assim, a formatação fica personalizada para as necessidades do seu negócio! S
 
 Além dos boletos comuns, o Boleto Simples possibilita gerar carnês para pagamentos feitos em parcelas. Você cria de uma só vez um conjunto de boletos assim:
 
-![carne.jpg](/uploads/carne.jpg)
+![carne.jpg](/uploads/carne.jpg){:loading="lazy"}{:loading="lazy"}
 
 As principais vantagens de gerar carnês no Boleto Simples são:
 
@@ -78,6 +78,6 @@ Oferecendo a possibilidade e pagamento em carnê você aumenta as chances de ven
 
 Se o seu serviço ou produto requer uma cobrança recorrente, no Boleto Simples também é possível gerar uma assinatura em poucos minutos. É só escolher o valor a ser pago e as datas de vencimento das faturas.
 
-![assinaturas.jpg](/uploads/assinaturas.jpg)
+![assinaturas.jpg](/uploads/assinaturas.jpg){:loading="lazy"}{:loading="lazy"}
 
 O seu cliente vai receber cada boleto por email no prazo **prévio ao vencimento** da cobrança que você determinar. [Saiba mais sobre assinaturas aqui](https://features.boletosimples.com.br/cobranca-recorrente-slash-assinaturas/).

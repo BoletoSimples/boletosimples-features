@@ -10,7 +10,7 @@ Esse link pode ser usado pra enviar o boleto por email, Whatsapp, Skype, Messege
 
 Você pode acessar o link sempre que quiser, na página de visualização do boleto dentro da plataforma:
 
-![compartilhamento do boleto-0f6020.JPG](/uploads/compartilhamento%20do%20boleto-0f6020.JPG)
+![compartilhamento do boleto-0f6020.JPG](/uploads/compartilhamento%20do%20boleto-0f6020.JPG){:loading="lazy"}
 
 Além do link normal, você também pode optar pelo envio do link que leva para o arquivo em PDF ou o arquivo em PNG do boleto.
 

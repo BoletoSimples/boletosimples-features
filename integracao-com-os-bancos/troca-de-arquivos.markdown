@@ -5,7 +5,7 @@ position: 2
 ---
 
 Os arquivos de **Remessa e Retorno** são utilizados para a troca de informações entre o Boleto Simples e o sistema do seu banco. Esse serviço conhecido como EDI é oferecido pelas VANs, mas com o Boleto Simples você não precisa se preocupar com isso.
-Com a [Nova Plataforma de Cobrança](http://boletosimples-features.siteleaf.net/suporte-a-nova-plataforma-de-cobranca/), o tráfego dos arquivos é feito a cada minuto.  Isso permite que as informações de emissão, registro, pagamento e vencimento estejam sempre **sincronizadas** e **atualizadas**.
+Com a [Nova Plataforma de Cobrança](https://features.boletosimples.com.br/suporte-a-nova-plataforma-de-cobranca/), o tráfego dos arquivos é feito a cada minuto.  Isso permite que as informações de emissão, registro, pagamento e vencimento estejam sempre **sincronizadas** e **atualizadas**.
 
 Com o recurso de **Conexão Online** do Boleto Simples, todo esse processo será feito automaticamente, sem necessidade de qualquer intervenção manual.
 

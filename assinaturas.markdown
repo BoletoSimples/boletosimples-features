@@ -9,7 +9,7 @@ Ela pode ser utilizada por empresas que buscam a fidelização do cliente ao pro
 
 No Boleto Simples é possível configurar todos os detalhes da assinatura: valor, frequência de cobrança, data de início e fim, antecedência do envio de email e muito mais.
 
-![assinatura config.JPG](/uploads/assinatura%20config.JPG)
+![assinatura config.JPG](/uploads/assinatura%20config.JPG){:loading="lazy"}
 
 A melhor parte é que depois disso, é tudo automático!
 
@@ -17,7 +17,7 @@ Os boletos referentes à assinatura serão gerados e enviados nos dias programad
 
 Acompanhe o status de pagamento, o vencimento e até gere a próxima cobrança quando quiser:
 
-![assinatura jpg-94c6d3.JPG](/uploads/assinatura%20jpg-94c6d3.JPG)
+![assinatura jpg-94c6d3.JPG](/uploads/assinatura%20jpg-94c6d3.JPG){:loading="lazy"}
 
 Automatizando as cobranças você economiza tempo e evita preocupações desnecessárias. Isso dá mais segurança para o seu negócio e também para os seus clientes!
 
